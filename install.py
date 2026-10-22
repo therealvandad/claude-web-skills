@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Install or remove the web-skills pack for Claude Code.
 
-  python install.py                  # install all 100 skills into ~/.claude/skills (personal, every project)
+  python install.py                  # install all 110 skills into ~/.claude/skills (personal, every project)
   python install.py --only layout nav  # only groups whose prefix matches (web-layout-*, web-nav-*)
   python install.py --project PATH   # install into PATH/.claude/skills instead (one project only)
   python install.py --uninstall      # remove every web-* skill this pack installed
@@ -29,7 +29,7 @@ def groups():
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--project", type=Path, help="install into this project's .claude/skills instead of ~/.claude/skills")
-    ap.add_argument("--only", nargs="*", default=[], help="group prefixes to install (layout css nav form ui design motion a11y seo perf ship js)")
+    ap.add_argument("--only", nargs="*", default=[], help="group prefixes to install (layout css nav form ui design motion a11y seo perf ship js craft)")
     ap.add_argument("--uninstall", action="store_true")
     ap.add_argument("--list", action="store_true")
     a = ap.parse_args()

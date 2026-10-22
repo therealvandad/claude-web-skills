@@ -1,4 +1,4 @@
-# The 100 skills (10 groups × 10)
+# The 110 skills (11 groups × 10)
 
 ## Group 1: Page layouts (`web-layout-*`)
 1. web-layout-page-shell — header / main / footer skeleton with sticky footer, max-width container, responsive padding
@@ -119,3 +119,15 @@
 98. web-js-errors-and-logging — try/catch strategy, global error handlers, user-facing error UI, console discipline
 99. web-js-clean-code — naming, small functions, early returns, comments that explain why, data-attribute hooks
 100. web-js-router-and-urls — URL state (query params, hash), History API, a minimal client-side router
+
+## Group 11: Craft, so it does not look vibe-coded (`web-craft-*`)
+101. web-craft-anti-generic-design — the tells of AI-generated pages (gradient text, purple-blue palette, glass cards, emoji icons, three identical cards, everything centred, decorative blobs) and the specific alternative for each
+102. web-craft-typography-with-character — choosing and pairing fonts beyond the default sans, expressive headings, optical sizing, when a serif or mono earns its place
+103. web-craft-copy-that-sounds-human — concrete, specific copy: banned words (seamless, unlock, elevate, empower, effortless), headline formulas with real nouns and numbers, button labels that say what happens
+104. web-craft-layout-with-intention — asymmetry, varied section shapes, breaking the grid on purpose, whitespace as a tool, not every section a centred heading over a card row
+105. web-craft-color-with-restraint — one accent, warm or cool neutrals instead of pure gray, no rainbow gradients, deriving a palette from a brand or photo, tinted surfaces
+106. web-craft-finishing-details — hairline borders, numbered sections, small-caps labels, subtle texture, aligned baselines, consistent icon weight: the details that read as handmade
+107. web-craft-real-content — design around real content, no lorem ipsum or placeholder avatars in demos, realistic data, real-sounding names and numbers, product screenshots that look like the product
+108. web-craft-code-structure — the code tells of vibe coding (one 2,000-line file, repeated class strings, inline onclick, magic numbers, dead code, console.log) and how to restructure: partials, components, tokens, a utilities layer
+109. web-craft-consistency-audit — audit a page for drift: radius, spacing, button and icon variants, heading sizes; run `scripts/vibe_check.py` to count distinct values and flag generic tells
+110. web-craft-self-review — the pre-ship review ritual: squint test, read every sentence aloud, keyboard walk, phone pass, delete anything that does not earn its place, compare against one real site you admire
