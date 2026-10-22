@@ -1,4 +1,4 @@
-# The 130 skills (13 groups × 10)
+# The 207 skills
 
 ## Group 1: Page layouts (`web-layout-*`)
 1. web-layout-page-shell — header / main / footer skeleton with sticky footer, max-width container, responsive padding
@@ -155,3 +155,100 @@
 128. web-section-team-grid — people grid: photo, name, role, social links; compact list variant; hover and focus states
 129. web-section-newsletter-signup — newsletter section: inline form, privacy line, success state, honeypot, dark variant
 130. web-section-before-after-slider — before/after image comparison with a draggable range handle, keyboard support, labels
+
+## Group 14: Interactive without a framework (`web-interactive-*`)
+131. web-interactive-live-search — search over a JSON file: fuzzy matching, highlighted matches, keyboard navigation, debounced input, result count announced
+132. web-interactive-filters-url-state — faceted filters (checkbox, range, sort) that update a list and the URL, shareable and back-button friendly
+133. web-interactive-calculator — pricing calculator or configurator: inputs drive a live total, formatted with Intl, shareable via URL, printable summary
+134. web-interactive-kanban — drag-and-drop board with native drag events, keyboard move, columns, localStorage persistence
+135. web-interactive-markdown-editor — split-pane editor with live preview from a tiny Markdown parser, autosave, word count
+136. web-interactive-quiz — quiz or survey engine from JSON: one question per screen, progress, scoring, results and share text
+137. web-interactive-sortable-list — reorderable list with drag handles, keyboard reorder, live region announcements, persistence
+138. web-interactive-countdown-timers — countdown to a date, pomodoro, stopwatch; tab-visibility handling, Intl durations
+139. web-interactive-map-leaflet — a map with markers from JSON using Leaflet (pinned version), popups, fit bounds, a list synced to the map
+140. web-interactive-command-palette — Ctrl+K palette for site navigation and actions: dialog, fuzzy list, recent items, keyboard only
+
+## Group 15: E-commerce on a static site (`web-ecommerce-*`)
+141. web-ecommerce-cart — cart in localStorage, mini-cart drawer, quantity steppers, totals, cross-tab sync
+142. web-ecommerce-product-grid-filters — catalogue grid with category, price range and sort, counts, empty state
+143. web-ecommerce-checkout-stripe — checkout from a static site with Stripe Payment Links or Checkout in test mode, success and cancel pages
+144. web-ecommerce-wishlist — save for later, heart toggle, wishlist page, share link
+145. web-ecommerce-order-status — order confirmation and tracking pages: summary, timeline, what-to-do-if
+146. web-ecommerce-discount-codes — promo code field, validation rules in JSON, applied-code display, error copy
+147. web-ecommerce-variants-and-stock — size and colour pickers as radio groups, stock states, sold out, back-in-stock form
+148. web-ecommerce-reviews — review list, rating summary bars, filter by stars, review form with photo
+149. web-ecommerce-shipping-and-tax — shipping options and estimates, delivery date copy, tax display rules by region
+150. web-ecommerce-trust-and-conversion — trust signals that work (guarantee, returns, real reviews), urgency without dark patterns, abandoned-cart reminder
+
+## Group 16: Data display (`web-data-*`)
+151. web-data-svg-bar-chart — inline SVG bar charts generated from a data array, responsive, labelled, with a table fallback
+152. web-data-svg-line-chart — line and area charts with axes, gridlines, hover tooltips, no library
+153. web-data-sparklines — tiny inline charts in tables and tiles, generated from data attributes
+154. web-data-donut-and-progress — donut and ring charts with stroke-dasharray, progress rings, animated under motion-safe
+155. web-data-kpi-dashboard — KPI tiles with trend arrows, deltas, time range switch, layout grid
+156. web-data-table-export — sortable, filterable table with CSV export, copy to clipboard and print stylesheet
+157. web-data-heatmap-calendar — contribution-style calendar heatmap from dated data, tooltips, colour scale
+158. web-data-number-formatting — Intl for numbers, currency, percent, units, relative time, compact notation
+159. web-data-fetch-and-cache — loading JSON or CSV, parsing CSV safely, caching in storage, polling, stale states
+160. web-data-chart-accessibility — accessible charts: text summaries, data tables, patterns not just colour, colour-blind-safe scales
+
+## Group 17: Ready-made looks (`web-theme-*`)
+161. web-theme-editorial — magazine look: serif display, strict measure, rules and numbering, muted palette
+162. web-theme-swiss — Swiss grid: grotesk, strong grid, one red accent, flush-left, lots of white
+163. web-theme-brutalist — brutalist done deliberately: raw borders, mono, high contrast, no rounding, intentional ugliness
+164. web-theme-terminal — dark mono look: phosphor accent, prompt motifs, done tastefully with real contrast
+165. web-theme-pastel-playful — soft rounded look: pastel surfaces, friendly type, illustration-friendly spacing
+166. web-theme-luxury — black, cream and gold with restraint: serif, generous spacing, small type, no shadows
+167. web-theme-corporate-clean — trustworthy B2B: blue that is not Tailwind's, dense tables, clear hierarchy
+168. web-theme-nature-organic — greens and earth tones, textures, rounded photography, warm neutrals
+169. web-theme-retro — a period look (90s web, 70s print) done on purpose with modern accessibility
+170. web-theme-switcher — multi-theme architecture: token sets per theme, class switching, persistence, previews
+
+## Group 18: Internationalisation (`web-i18n-*`)
+171. web-i18n-multilanguage-structure — folder per language, hreflang, language switcher that keeps the page, default-language rules
+172. web-i18n-rtl — right-to-left support: dir attribute, logical properties, mirrored icons, bidirectional text
+173. web-i18n-dates-currency — Intl per locale for dates, numbers, currency, lists and plurals
+174. web-i18n-translation-strings — JSON string files and a tiny t() with interpolation and plural rules, no library
+175. web-i18n-fonts-and-scripts — font subsets and fallbacks for CJK, Arabic, Devanagari, Cyrillic; line height and size per script
+
+## Group 19: Content pipelines (`web-content-*`)
+176. web-content-markdown-pipeline — Markdown with front matter to HTML in a short Python script, code highlighting, images
+177. web-content-static-blog-generator — a 60-line generator: posts folder to pages, index, tags, RSS, with a template file
+178. web-content-partials-build — assemble pages from partials (header, footer) with a tiny build script and a watch mode
+179. web-content-images-pipeline — resize, convert to WebP/AVIF and write srcset from a folder of originals with Pillow
+180. web-content-sitemap-and-feeds — generate sitemap.xml, RSS, Atom and JSON Feed from the pages folder
+
+## Group 20: Progressive web apps (`web-pwa-*`)
+181. web-pwa-manifest — web app manifest: name, icons, display, theme colour, start URL, installability checks
+182. web-pwa-service-worker-offline — service worker with precache, runtime caching strategies and an offline page
+183. web-pwa-install-prompt — custom install button with beforeinstallprompt, iOS instructions, dismissal memory
+184. web-pwa-push-notifications — push with VAPID keys, permission UX that asks at the right moment, a tiny Node sender
+185. web-pwa-app-icons-splash — icon sizes, maskable icons, iOS splash screens, generating them with Pillow
+186. web-pwa-offline-forms — queue form submissions offline and replay with Background Sync or on reconnect
+187. web-pwa-update-flow — detect a new service worker, "update available" toast, skipWaiting and reload
+188. web-pwa-share-and-files — Web Share API, share target, file handling and the File System Access API
+189. web-pwa-storage — IndexedDB wrapper for app data, quota, persistence request, export and import
+190. web-pwa-testing-and-audit — testing on real devices, Lighthouse PWA checks, debugging service workers, cache busting
+
+## Group 21: HTML email (`web-email-*`)
+191. web-email-table-layout — the table-based skeleton that renders everywhere: container, columns, spacing without margins
+192. web-email-typography-and-buttons — web-safe fonts with fallbacks, bulletproof buttons, link styling
+193. web-email-images — image rules: dimensions, alt text, retina, blocked-image states, background images
+194. web-email-dark-mode — dark mode in Apple Mail, Gmail and Outlook: meta tags, media queries, image swaps
+195. web-email-responsive — fluid hybrid layout, media queries where supported, stacking columns
+196. web-email-outlook-fixes — MSO conditional comments, VML buttons and backgrounds, line-height and spacing fixes
+197. web-email-transactional-templates — receipt, password reset, welcome and shipping emails as complete templates
+198. web-email-newsletter-template — newsletter layout: header, article blocks, footer with unsubscribe and address
+199. web-email-testing-and-deliverability — test clients, SPF, DKIM and DMARC pointers, spam-trigger content, list-unsubscribe
+200. web-email-plain-text-and-accessibility — plain-text alternative, semantic roles in tables, language, contrast
+
+## Group 22: Tools (`web-tool-*`)
+201. web-tool-site-audit — `scripts/site_audit.py`: audit a folder or URL and write one report page: vibe check, broken links, missing alt, contrast on inline colours, image weight, meta tags, headings outline
+202. web-tool-component-gallery — `scripts/component_gallery.py`: scan a site folder, extract every section, header and footer, and render them as a living style-guide page
+203. web-tool-screenshot-diff — `scripts/screenshot_diff.py`: headless Edge or Chrome screenshots at phone, tablet and desktop widths, before and after, side by side with a pixel-diff percentage
+
+## Group 23: Workflows (`web-flow-*`)
+204. web-flow-new-site — ask four questions (what, for whom, pages, tone) and scaffold a site from the pack with `scripts/new_site.py`: folder structure, Tailwind CLI, chosen pages, realistic content, deploy config
+205. web-flow-ship-it — the launch sequence as one run: validate, vibe check, build Tailwind, commit, push, deploy to GitHub Pages or Cloudflare Pages, report the URL, with `scripts/ship.py`
+206. web-flow-design-from-screenshot — from a screenshot of a site you admire, extract palette (Pillow), type scale and layout rhythm into a `@theme` block without copying content, with `scripts/palette_from_image.py`
+207. web-flow-explain-my-site — generate a plain-English tour of a site's codebase as a page: file map, how pages are built, where to change what, with `scripts/explain_site.py`
