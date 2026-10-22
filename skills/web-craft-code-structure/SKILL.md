@@ -1,6 +1,6 @@
 ---
 name: web-craft-code-structure
-description: Restructure a vibe-coded site without a framework: a huge index.html becomes src/ partials and a 20-line build script, pasted class strings become @utility components, magic values become @theme tokens, inline onclick/style become data-* hooks in ES modules, dead code goes. Use when a user says "the file is huge", "clean up this HTML" or "this code looks AI generated".
+description: 'Restructure a vibe-coded site without a framework: a huge index.html becomes src/ partials and a 20-line build script, pasted class strings become @utility components, magic values become @theme tokens, inline onclick/style become data-* hooks in ES modules, dead code goes. Use when a user says "the file is huge", "clean up this HTML" or "this code looks AI generated".'
 ---
 
 # Code structure that does not look vibe-coded

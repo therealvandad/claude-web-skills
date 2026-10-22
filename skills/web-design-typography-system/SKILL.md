@@ -1,6 +1,6 @@
 ---
 name: web-design-typography-system
-description: Set up a complete typography system in Tailwind v4: font stacks in `@theme`, a modular type scale with paired line-heights, measure (line length), heading vs body rules, and ready-made heading/prose classes. Use whenever a user asks about fonts, font sizes, "make the text look professional", headings, readability, line height, or "set up typography" for a site.
+description: 'Set up a complete typography system in Tailwind v4: font stacks in `@theme`, a modular type scale with paired line-heights, measure (line length), heading vs body rules, and ready-made heading/prose classes. Use whenever a user asks about fonts, font sizes, "make the text look professional", headings, readability, line height, or "set up typography" for a site.'
 ---
 
 # Typography system

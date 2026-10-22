@@ -1,6 +1,6 @@
 ---
 name: web-email-dark-mode
-description: Make HTML email look deliberate in dark mode: color-scheme meta tags, prefers-color-scheme styles for Apple Mail, [data-ogsc] and [data-ogsb] hooks for Outlook.com and new Outlook, logo swaps, and colours that survive forced inversion. Use when a user says "email dark mode", "logo disappears in dark mode" or "Outlook inverts my colours".
+description: 'Make HTML email look deliberate in dark mode: color-scheme meta tags, prefers-color-scheme styles for Apple Mail, [data-ogsc] and [data-ogsb] hooks for Outlook.com and new Outlook, logo swaps, and colours that survive forced inversion. Use when a user says "email dark mode", "logo disappears in dark mode" or "Outlook inverts my colours".'
 ---
 
 # Dark mode in HTML email

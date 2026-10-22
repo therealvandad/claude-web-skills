@@ -1,6 +1,6 @@
 ---
 name: web-email-transactional-templates
-description: Complete body blocks for the four transactional emails every shop or app sends: order receipt, password reset, welcome and shipping notice, each with subject, preheader and plain footer, built on the shared table skeleton. Use when a user asks for a "receipt email", "password reset email", "welcome email", "order confirmation" or "shipping notification".
+description: 'Complete body blocks for the four transactional emails every shop or app sends: order receipt, password reset, welcome and shipping notice, each with subject, preheader and plain footer, built on the shared table skeleton. Use when a user asks for a "receipt email", "password reset email", "welcome email", "order confirmation" or "shipping notification".'
 ---
 
 # Transactional email templates

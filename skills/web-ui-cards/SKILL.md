@@ -1,6 +1,6 @@
 ---
 name: web-ui-cards
-description: Build card components with Tailwind: media, body, meta and actions anatomy; equal-height cards in a grid; the accessible "whole card is clickable" pattern that keeps one real link; horizontal and compact variants. Use whenever a user asks for a card, tile, post preview, product card, profile card, info box, or a "clickable card".
+description: 'Build card components with Tailwind: media, body, meta and actions anatomy; equal-height cards in a grid; the accessible "whole card is clickable" pattern that keeps one real link; horizontal and compact variants. Use whenever a user asks for a card, tile, post preview, product card, profile card, info box, or a "clickable card".'
 ---
 
 # Cards

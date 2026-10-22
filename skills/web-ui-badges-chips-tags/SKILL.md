@@ -1,6 +1,6 @@
 ---
 name: web-ui-badges-chips-tags
-description: Build badges, chips and tags with Tailwind: colour-coded status badges with a dot, notification count bubbles, removable filter chips with keyboard support, selectable tag toggles, and a tag input. Use whenever a user asks for a badge, label, pill, status indicator, tag, chip, "new" marker, unread count, or removable filter tokens.
+description: 'Build badges, chips and tags with Tailwind: colour-coded status badges with a dot, notification count bubbles, removable filter chips with keyboard support, selectable tag toggles, and a tag input. Use whenever a user asks for a badge, label, pill, status indicator, tag, chip, "new" marker, unread count, or removable filter tokens.'
 ---
 
 # Badges, chips and tags

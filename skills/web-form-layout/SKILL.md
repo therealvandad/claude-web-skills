@@ -1,6 +1,6 @@
 ---
 name: web-form-layout
-description: Build the skeleton of an accessible form with Tailwind: fieldsets with legends, labels tied to inputs, help text, reserved error slots, required markers, responsive two-column rows and a sticky action bar. Use whenever a user asks for a contact form, signup form, settings page, checkout form, or says "lay out these fields", even before validation is mentioned.
+description: 'Build the skeleton of an accessible form with Tailwind: fieldsets with legends, labels tied to inputs, help text, reserved error slots, required markers, responsive two-column rows and a sticky action bar. Use whenever a user asks for a contact form, signup form, settings page, checkout form, or says "lay out these fields", even before validation is mentioned.'
 ---
 
 # Form layout

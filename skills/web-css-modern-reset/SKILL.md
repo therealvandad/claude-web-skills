@@ -1,6 +1,6 @@
 ---
 name: web-css-modern-reset
-description: Base styles to add on top of Tailwind v4's Preflight: what Preflight already resets, plus an @layer base block for text-wrap balance, reduced-motion-aware smooth scroll, a global focus ring, scrollbar and selection colours, media and form defaults. Use when a user starts a new site, asks for a CSS reset or normalize, or asks why headings and lists look unstyled.
+description: 'Base styles to add on top of Tailwind v4''s Preflight: what Preflight already resets, plus an @layer base block for text-wrap balance, reduced-motion-aware smooth scroll, a global focus ring, scrollbar and selection colours, media and form defaults. Use when a user starts a new site, asks for a CSS reset or normalize, or asks why headings and lists look unstyled.'
 ---
 
 # Modern CSS reset on top of Preflight

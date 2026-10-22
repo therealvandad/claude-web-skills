@@ -1,6 +1,6 @@
 ---
 name: web-page-auth
-description: Build login, sign up, forgot-password and reset-password pages in Tailwind v4: a centred card and a split-with-image variant, correct autocomplete attributes, an error banner wired to aria, and a "check your email" success state. Use whenever a user asks for a login page, sign in page, sign up page, registration form, password reset, "forgot password" or an auth screen.
+description: 'Build login, sign up, forgot-password and reset-password pages in Tailwind v4: a centred card and a split-with-image variant, correct autocomplete attributes, an error banner wired to aria, and a "check your email" success state. Use whenever a user asks for a login page, sign in page, sign up page, registration form, password reset, "forgot password" or an auth screen.'
 ---
 
 # Auth pages

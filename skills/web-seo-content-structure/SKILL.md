@@ -1,6 +1,6 @@
 ---
 name: web-seo-content-structure
-description: Structure page content for search engines and readers: one H1 and a clean heading outline, descriptive internal links, scannable sections, real text instead of text-in-images, in-page anchors, author and date for articles. Use when a user asks "SEO for this page", "heading structure", "how many H1", "internal linking", "blog post structure", "content outline", or "why doesn't this page rank".
+description: 'Structure page content for search engines and readers: one H1 and a clean heading outline, descriptive internal links, scannable sections, real text instead of text-in-images, in-page anchors, author and date for articles. Use when a user asks "SEO for this page", "heading structure", "how many H1", "internal linking", "blog post structure", "content outline", or "why doesn''t this page rank".'
 ---
 
 # Content structure for search and readers

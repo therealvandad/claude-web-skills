@@ -1,6 +1,6 @@
 ---
 name: web-data-heatmap-calendar
-description: Build a contribution-style calendar heatmap as inline SVG from dated counts: 53 weeks of day cells, month and weekday labels, a five-step single-hue colour scale, hover and keyboard tooltips, a legend and a hidden monthly table. Use whenever a user asks for a "heatmap", "contribution graph", "GitHub-style calendar", "activity calendar", "streak chart", or "days with data coloured in".
+description: 'Build a contribution-style calendar heatmap as inline SVG from dated counts: 53 weeks of day cells, month and weekday labels, a five-step single-hue colour scale, hover and keyboard tooltips, a legend and a hidden monthly table. Use whenever a user asks for a "heatmap", "contribution graph", "GitHub-style calendar", "activity calendar", "streak chart", or "days with data coloured in".'
 ---
 
 # Calendar heatmap

@@ -1,6 +1,6 @@
 ---
 name: web-motion-view-transitions
-description: Use the View Transitions API for same-document DOM changes (document.startViewTransition) and cross-document multi-page navigations (@view-transition { navigation: auto }), with view-transition-name for shared-element morphs, browser-support notes and a graceful fallback. Use whenever a user asks for "smooth page transitions", "shared element animation", "morph this card into the detail page", "animate list reorder", or "View Transitions".
+description: 'Use the View Transitions API for same-document DOM changes (document.startViewTransition) and cross-document multi-page navigations (@view-transition { navigation: auto }), with view-transition-name for shared-element morphs, browser-support notes and a graceful fallback. Use whenever a user asks for "smooth page transitions", "shared element animation", "morph this card into the detail page", "animate list reorder", or "View Transitions".'
 ---
 
 # View Transitions

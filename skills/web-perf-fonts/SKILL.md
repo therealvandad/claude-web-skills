@@ -1,6 +1,6 @@
 ---
 name: web-perf-fonts
-description: Set up fast web fonts - self-hosted woff2, subsetting, `font-display: swap`, preload of the one critical file, variable fonts, and a `size-adjust` fallback that prevents text jumping - wired into Tailwind v4 `@theme`. Use when a user asks to "add a Google Font", says fonts flash or jump, "FOUT", "font loading is slow", or wants to self-host fonts.
+description: 'Set up fast web fonts - self-hosted woff2, subsetting, `font-display: swap`, preload of the one critical file, variable fonts, and a `size-adjust` fallback that prevents text jumping - wired into Tailwind v4 `@theme`. Use when a user asks to "add a Google Font", says fonts flash or jump, "FOUT", "font loading is slow", or wants to self-host fonts.'
 ---
 
 # Font performance

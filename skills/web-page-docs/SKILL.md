@@ -1,6 +1,6 @@
 ---
 name: web-page-docs
-description: Build a documentation page or docs site in Tailwind v4: a three-column grid (sticky sidebar nav, content column, "on this page" TOC), search with a "/" shortcut, code blocks with copy buttons, prev/next links and a mobile sidebar. Use whenever a user asks for docs, a documentation site, API reference, developer guide, knowledge base or handbook.
+description: 'Build a documentation page or docs site in Tailwind v4: a three-column grid (sticky sidebar nav, content column, "on this page" TOC), search with a "/" shortcut, code blocks with copy buttons, prev/next links and a mobile sidebar. Use whenever a user asks for docs, a documentation site, API reference, developer guide, knowledge base or handbook.'
 ---
 
 # Documentation page

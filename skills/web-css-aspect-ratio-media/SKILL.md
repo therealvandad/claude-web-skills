@@ -1,6 +1,6 @@
 ---
 name: web-css-aspect-ratio-media
-description: Keep images, videos and embeds at a fixed shape with aspect-ratio and object-fit in Tailwind v4: uniform card thumbnails, cover and contain modes, responsive YouTube/Vimeo iframes, avatars, and background-style image fills. Use whenever a user says images are "different sizes", thumbnails look stretched or squished, a video embed won't resize, or asks about aspect ratio, object-fit, or responsive iframes.
+description: 'Keep images, videos and embeds at a fixed shape with aspect-ratio and object-fit in Tailwind v4: uniform card thumbnails, cover and contain modes, responsive YouTube/Vimeo iframes, avatars, and background-style image fills. Use whenever a user says images are "different sizes", thumbnails look stretched or squished, a video embed won''t resize, or asks about aspect ratio, object-fit, or responsive iframes.'
 ---
 
 # Aspect ratio and media fitting

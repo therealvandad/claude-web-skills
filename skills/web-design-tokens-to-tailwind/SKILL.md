@@ -1,6 +1,6 @@
 ---
 name: web-design-tokens-to-tailwind
-description: Convert a design spec or Figma token export (colors, fonts, spacing, radii, shadows) into a Tailwind v4 `@theme` block: the namespace rules that turn each token into a utility, plus a script that transforms tokens.json into CSS. Use whenever a user hands over a style guide, Figma variables, a tokens file, or says "match our design system in Tailwind".
+description: 'Convert a design spec or Figma token export (colors, fonts, spacing, radii, shadows) into a Tailwind v4 `@theme` block: the namespace rules that turn each token into a utility, plus a script that transforms tokens.json into CSS. Use whenever a user hands over a style guide, Figma variables, a tokens file, or says "match our design system in Tailwind".'
 ---
 
 # Design tokens to Tailwind v4

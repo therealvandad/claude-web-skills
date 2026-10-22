@@ -1,6 +1,6 @@
 ---
 name: web-section-cta-band
-description: Build a final call-to-action band: one headline, one primary button, a quieter secondary link and a reassurance line, in dark, brand-colour and bordered variants with Tailwind v4. Use whenever a user asks for a "call to action section", "CTA band", "get started section", "final pitch before the footer", or "the big coloured block with a button".
+description: 'Build a final call-to-action band: one headline, one primary button, a quieter secondary link and a reassurance line, in dark, brand-colour and bordered variants with Tailwind v4. Use whenever a user asks for a "call to action section", "CTA band", "get started section", "final pitch before the footer", or "the big coloured block with a button".'
 ---
 
 # CTA band

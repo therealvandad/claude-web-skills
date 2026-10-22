@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-cart
-description: Build a shopping cart for a static site with no backend: a localStorage cart.js module (integer cents, Intl formatting, cross-tab sync), "add to cart" buttons, a header badge and a mini-cart drawer with quantity steppers and subtotal, in Tailwind v4. Use whenever a user asks for a cart, basket, "add to cart", mini cart, cart drawer or cart count.
+description: 'Build a shopping cart for a static site with no backend: a localStorage cart.js module (integer cents, Intl formatting, cross-tab sync), "add to cart" buttons, a header badge and a mini-cart drawer with quantity steppers and subtotal, in Tailwind v4. Use whenever a user asks for a cart, basket, "add to cart", mini cart, cart drawer or cart count.'
 ---
 
 # Cart in localStorage

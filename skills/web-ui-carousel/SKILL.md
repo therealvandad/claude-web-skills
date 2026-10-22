@@ -1,6 +1,6 @@
 ---
 name: web-ui-carousel
-description: Build a carousel/slider with CSS scroll-snap: swipeable slides, previous/next buttons, dot indicators synced by IntersectionObserver, optional autoplay that pauses on hover, focus and reduced motion. Use whenever a user asks for a carousel, slider, slideshow, image gallery strip, product scroller, testimonial rotator, or "swipe through" cards, without a library.
+description: 'Build a carousel/slider with CSS scroll-snap: swipeable slides, previous/next buttons, dot indicators synced by IntersectionObserver, optional autoplay that pauses on hover, focus and reduced motion. Use whenever a user asks for a carousel, slider, slideshow, image gallery strip, product scroller, testimonial rotator, or "swipe through" cards, without a library.'
 ---
 
 # Scroll-snap carousel

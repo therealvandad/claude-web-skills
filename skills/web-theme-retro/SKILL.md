@@ -1,6 +1,6 @@
 ---
 name: web-theme-retro
-description: Drop a deliberate period look onto a site in Tailwind v4: 70s print with Caprasimo display, Bricolage Grotesque body, mustard, orange and brown stripe bands, pill buttons and thick brown rules, or a 90s web variant, both with real contrast. Use whenever a user says "retro", "vintage", "70s", "90s website", "old school", "nostalgic", "groovy" or "like an old poster".
+description: 'Drop a deliberate period look onto a site in Tailwind v4: 70s print with Caprasimo display, Bricolage Grotesque body, mustard, orange and brown stripe bands, pill buttons and thick brown rules, or a 90s web variant, both with real contrast. Use whenever a user says "retro", "vintage", "70s", "90s website", "old school", "nostalgic", "groovy" or "like an old poster".'
 ---
 
 # Retro theme

@@ -1,6 +1,6 @@
 ---
 name: web-craft-copy-that-sounds-human
-description: Rewrite copy so it sounds like a person who knows the product: banned words (seamless, unlock, elevate, empower, effortless, supercharge), headline formulas with real nouns and numbers, button labels that say what happens, no John Doe or Acme. Use whenever a user says "copy sounds fake", "sounds like AI", "sounds like marketing", or wants better headlines, taglines or button text.
+description: 'Rewrite copy so it sounds like a person who knows the product: banned words (seamless, unlock, elevate, empower, effortless, supercharge), headline formulas with real nouns and numbers, button labels that say what happens, no John Doe or Acme. Use whenever a user says "copy sounds fake", "sounds like AI", "sounds like marketing", or wants better headlines, taglines or button text.'
 ---
 
 # Copy that sounds human

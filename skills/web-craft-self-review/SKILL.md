@@ -1,6 +1,6 @@
 ---
 name: web-craft-self-review
-description: Run a pre-ship self-review as a fixed sequence with pass/fail checks: squint test, read every sentence aloud, swap test, keyboard walk, 375px pass, delete pass, side-by-side against a site you admire, then an ordered fix list. Use when a user says "review before I ship", "does this look done", "does it look AI generated" or "is it ready".
+description: 'Run a pre-ship self-review as a fixed sequence with pass/fail checks: squint test, read every sentence aloud, swap test, keyboard walk, 375px pass, delete pass, side-by-side against a site you admire, then an ordered fix list. Use when a user says "review before I ship", "does this look done", "does it look AI generated" or "is it ready".'
 ---
 
 # Self-review before shipping

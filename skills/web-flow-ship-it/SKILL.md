@@ -1,6 +1,6 @@
 ---
 name: web-flow-ship-it
-description: Run the launch sequence for a plain HTML + Tailwind site as one command, scripts/ship.py: validate the HTML, vibe check, build Tailwind, commit, push, deploy to GitHub Pages, Cloudflare Pages or Netlify, then report the URL. Use when a user says "ship it", "deploy", "publish my site", "put it online", "go live" or "push this live".
+description: 'Run the launch sequence for a plain HTML + Tailwind site as one command, scripts/ship.py: validate the HTML, vibe check, build Tailwind, commit, push, deploy to GitHub Pages, Cloudflare Pages or Netlify, then report the URL. Use when a user says "ship it", "deploy", "publish my site", "put it online", "go live" or "push this live".'
 ---
 
 # Ship it

@@ -1,6 +1,6 @@
 ---
 name: web-section-newsletter-signup
-description: Build a newsletter signup section: an inline one-field form with a labelled input, honeypot, privacy line, and fetch submit with inline success and error states that still works without JavaScript, in light and dark variants with Tailwind v4. Use whenever a user asks for a "newsletter box", "subscribe form", "email signup", "join the list", or "mailing list section".
+description: 'Build a newsletter signup section: an inline one-field form with a labelled input, honeypot, privacy line, and fetch submit with inline success and error states that still works without JavaScript, in light and dark variants with Tailwind v4. Use whenever a user asks for a "newsletter box", "subscribe form", "email signup", "join the list", or "mailing list section".'
 ---
 
 # Newsletter signup

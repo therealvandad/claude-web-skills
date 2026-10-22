@@ -1,6 +1,6 @@
 ---
 name: web-section-bento-grid
-description: Build a bento grid section: mixed-size tiles with column and row spans, one hero tile with a real screenshot, dense packing with no holes, and a sensible single-column order on phones, in Tailwind v4. Use whenever a user asks for a "bento", "bento box layout", "Apple-style feature grid", "mixed size cards", or "tiles of different sizes".
+description: 'Build a bento grid section: mixed-size tiles with column and row spans, one hero tile with a real screenshot, dense packing with no holes, and a sensible single-column order on phones, in Tailwind v4. Use whenever a user asks for a "bento", "bento box layout", "Apple-style feature grid", "mixed size cards", or "tiles of different sizes".'
 ---
 
 # Bento grid

@@ -1,6 +1,6 @@
 ---
 name: web-css-responsive-grid
-description: Build responsive CSS Grid layouts with Tailwind v4: auto-fit/auto-fill columns that reflow without breakpoints, named grid-template-areas for page layouts, and span/placement utilities. Use whenever a user asks for a grid, columns, "cards that wrap", "as many per row as fit", a page layout with sidebar and content, or asks why their grid overflows on mobile.
+description: 'Build responsive CSS Grid layouts with Tailwind v4: auto-fit/auto-fill columns that reflow without breakpoints, named grid-template-areas for page layouts, and span/placement utilities. Use whenever a user asks for a grid, columns, "cards that wrap", "as many per row as fit", a page layout with sidebar and content, or asks why their grid overflows on mobile.'
 ---
 
 # Responsive CSS Grid

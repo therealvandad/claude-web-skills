@@ -1,6 +1,6 @@
 ---
 name: web-css-layers-and-organization
-description: Organise site CSS around Tailwind v4 cascade layers: a file structure for input.css, how @layer components and @utility work, when @apply is a trap, and keeping third-party CSS from overriding utilities. Use whenever a user asks where to put custom CSS, how to structure stylesheets, about @layer or @apply, "my CSS isn't overriding Tailwind", or wants a .btn class.
+description: 'Organise site CSS around Tailwind v4 cascade layers: a file structure for input.css, how @layer components and @utility work, when @apply is a trap, and keeping third-party CSS from overriding utilities. Use whenever a user asks where to put custom CSS, how to structure stylesheets, about @layer or @apply, "my CSS isn''t overriding Tailwind", or wants a .btn class.'
 ---
 
 # CSS layers and organisation

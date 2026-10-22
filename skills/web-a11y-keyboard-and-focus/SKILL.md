@@ -1,6 +1,6 @@
 ---
 name: web-a11y-keyboard-and-focus
-description: Make every interaction work from the keyboard: logical tab order, visible focus-visible rings in Tailwind, focus trapping in dialogs and drawers, restoring focus on close, moving focus after dynamic changes, and WCAG 2.2 "focus not obscured". Use when a user says "can't tab to it", "focus ring", "focus trap", "keyboard navigation", "focus outline removed", or "where does focus go".
+description: 'Make every interaction work from the keyboard: logical tab order, visible focus-visible rings in Tailwind, focus trapping in dialogs and drawers, restoring focus on close, moving focus after dynamic changes, and WCAG 2.2 "focus not obscured". Use when a user says "can''t tab to it", "focus ring", "focus trap", "keyboard navigation", "focus outline removed", or "where does focus go".'
 ---
 
 # Keyboard and focus management

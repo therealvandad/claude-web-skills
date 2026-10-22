@@ -1,6 +1,6 @@
 ---
 name: web-form-password-fields
-description: Build password fields for login, signup and change-password forms with Tailwind and vanilla JS: a show/hide toggle, a live strength meter with requirement checklist, confirm-password matching via setCustomValidity, and the right autocomplete tokens so password managers work. Use whenever a user asks for a "password input", "eye icon to reveal password", "password strength bar", "confirm password", or "login/register form".
+description: 'Build password fields for login, signup and change-password forms with Tailwind and vanilla JS: a show/hide toggle, a live strength meter with requirement checklist, confirm-password matching via setCustomValidity, and the right autocomplete tokens so password managers work. Use whenever a user asks for a "password input", "eye icon to reveal password", "password strength bar", "confirm password", or "login/register form".'
 ---
 
 # Password fields

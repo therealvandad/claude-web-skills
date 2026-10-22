@@ -1,6 +1,6 @@
 ---
 name: web-ui-accordion
-description: Build an accordion or FAQ list with native <details>/<summary>: styled headers with a rotating chevron, one-open-at-a-time via the `name` attribute, smooth open/close animation, deep-linkable items. Use whenever a user asks for an accordion, FAQ, collapsible sections, expandable panels, "show more" toggles, or a disclosure widget.
+description: 'Build an accordion or FAQ list with native <details>/<summary>: styled headers with a rotating chevron, one-open-at-a-time via the `name` attribute, smooth open/close animation, deep-linkable items. Use whenever a user asks for an accordion, FAQ, collapsible sections, expandable panels, "show more" toggles, or a disclosure widget.'
 ---
 
 # Accordion with `<details>` and `<summary>`

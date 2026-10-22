@@ -1,6 +1,6 @@
 ---
 name: web-email-table-layout
-description: Build the HTML email skeleton for Gmail, Apple Mail, Outlook and Yahoo: full-width wrapper table, 600 px container with an MSO ghost table, preheader, columns and footer, spaced with cell padding and inline styles. Use whenever a user asks for an "email template", "HTML email", "email layout", "email looks broken in Outlook" or "how do I start an email".
+description: 'Build the HTML email skeleton for Gmail, Apple Mail, Outlook and Yahoo: full-width wrapper table, 600 px container with an MSO ghost table, preheader, columns and footer, spaced with cell padding and inline styles. Use whenever a user asks for an "email template", "HTML email", "email layout", "email looks broken in Outlook" or "how do I start an email".'
 ---
 
 # HTML email table layout

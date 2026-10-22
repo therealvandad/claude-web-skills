@@ -1,6 +1,6 @@
 ---
 name: web-form-input-states
-description: Style every state of a text input with Tailwind: default, hover, focus ring, disabled, readonly, invalid, valid, loading (async check) and a floating label that lifts on focus or content. Use whenever a user asks to "style the inputs", wants a "floating label", "material style input", "disabled look", "input with spinner", or asks why the focus ring is missing.
+description: 'Style every state of a text input with Tailwind: default, hover, focus ring, disabled, readonly, invalid, valid, loading (async check) and a floating label that lifts on focus or content. Use whenever a user asks to "style the inputs", wants a "floating label", "material style input", "disabled look", "input with spinner", or asks why the focus ring is missing.'
 ---
 
 # Input states

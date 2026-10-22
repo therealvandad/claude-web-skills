@@ -1,6 +1,6 @@
 ---
 name: web-ui-toast-notifications
-description: Build a toast notification system: a stacked corner region, a `toast()` function with success/error/info variants, auto-dismiss with pause on hover, close button, screen-reader announcements via aria-live, and a queue cap. Use whenever a user asks for toasts, snackbars, "saved" messages, flash messages, alerts that disappear, or notification popups.
+description: 'Build a toast notification system: a stacked corner region, a `toast()` function with success/error/info variants, auto-dismiss with pause on hover, close button, screen-reader announcements via aria-live, and a queue cap. Use whenever a user asks for toasts, snackbars, "saved" messages, flash messages, alerts that disappear, or notification popups.'
 ---
 
 # Toast notifications

@@ -1,6 +1,6 @@
 ---
 name: web-craft-real-content
-description: Design around real content, not placeholders: no lorem ipsum, "John Doe" or "Acme Inc"; believable data (varied names, specific numbers, real dates), real product screenshots not grey boxes, licensed photos, and layouts that survive 3-word or 14-word headlines. Use when a user says the demo "looks fake", "looks AI generated", "make it feel real" or "replace the placeholder text".
+description: 'Design around real content, not placeholders: no lorem ipsum, "John Doe" or "Acme Inc"; believable data (varied names, specific numbers, real dates), real product screenshots not grey boxes, licensed photos, and layouts that survive 3-word or 14-word headlines. Use when a user says the demo "looks fake", "looks AI generated", "make it feel real" or "replace the placeholder text".'
 ---
 
 # Real content

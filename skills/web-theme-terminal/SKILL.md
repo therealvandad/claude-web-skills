@@ -1,6 +1,6 @@
 ---
 name: web-theme-terminal
-description: Drop a tasteful dark terminal look onto a site in Tailwind v4: JetBrains Mono, a near-black green-tinted paper (never #000), pale ink, one phosphor accent (never #0f0), prompt and cursor motifs, 1px borders, no glow, real 4.5:1 contrast. Use whenever a user says "hacker look", "terminal", "console", "CLI aesthetic", "like a code editor", "retro computer", "matrix" or "developer tool vibe".
+description: 'Drop a tasteful dark terminal look onto a site in Tailwind v4: JetBrains Mono, a near-black green-tinted paper (never #000), pale ink, one phosphor accent (never #0f0), prompt and cursor motifs, 1px borders, no glow, real 4.5:1 contrast. Use whenever a user says "hacker look", "terminal", "console", "CLI aesthetic", "like a code editor", "retro computer", "matrix" or "developer tool vibe".'
 ---
 
 # Terminal theme

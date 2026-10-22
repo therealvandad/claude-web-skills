@@ -1,6 +1,6 @@
 ---
 name: web-email-newsletter-template
-description: Build a newsletter email: view-in-browser bar, masthead, lead story with image, a two-column "also this month" row, a product spotlight and a compliant footer with unsubscribe, preferences and postal address, kept under Gmail's 102 KB clip. Use when a user asks for a "newsletter template", "email newsletter layout", "monthly digest email" or "marketing email".
+description: 'Build a newsletter email: view-in-browser bar, masthead, lead story with image, a two-column "also this month" row, a product spotlight and a compliant footer with unsubscribe, preferences and postal address, kept under Gmail''s 102 KB clip. Use when a user asks for a "newsletter template", "email newsletter layout", "monthly digest email" or "marketing email".'
 ---
 
 # Newsletter email template

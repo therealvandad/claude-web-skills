@@ -1,6 +1,6 @@
 ---
 name: web-design-shadows-and-elevation
-description: Define an elevation system in Tailwind v4: a shadow scale in `@theme` built from layered, tinted shadows, which level each component uses (card, dropdown, modal), hover lift, and the dark-mode replacement (surface steps and rings). Use whenever a user asks for shadows, "make the cards pop", depth, elevation, floating, or says shadows look muddy or vanish in dark mode.
+description: 'Define an elevation system in Tailwind v4: a shadow scale in `@theme` built from layered, tinted shadows, which level each component uses (card, dropdown, modal), hover lift, and the dark-mode replacement (surface steps and rings). Use whenever a user asks for shadows, "make the cards pop", depth, elevation, floating, or says shadows look muddy or vanish in dark mode.'
 ---
 
 # Shadows and elevation

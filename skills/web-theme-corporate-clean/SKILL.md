@@ -1,6 +1,6 @@
 ---
 name: web-theme-corporate-clean
-description: Drop a trustworthy B2B look onto a site in Tailwind v4: IBM Plex Sans and Plex Mono, a muted steel blue that is not Tailwind's blue-600, cool tinted greys, small radii, dense tables with tabular numbers and one overlay shadow. Use whenever a user says "corporate", "enterprise", "B2B", "SaaS dashboard", "professional", "trustworthy", "fintech", "admin panel" or "clean and serious".
+description: 'Drop a trustworthy B2B look onto a site in Tailwind v4: IBM Plex Sans and Plex Mono, a muted steel blue that is not Tailwind''s blue-600, cool tinted greys, small radii, dense tables with tabular numbers and one overlay shadow. Use whenever a user says "corporate", "enterprise", "B2B", "SaaS dashboard", "professional", "trustworthy", "fintech", "admin panel" or "clean and serious".'
 ---
 
 # Corporate clean theme

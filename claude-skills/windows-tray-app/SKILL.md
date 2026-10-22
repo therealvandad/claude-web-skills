@@ -1,6 +1,6 @@
 ---
 name: windows-tray-app
-description: Scaffold a small Windows tray utility: icon with right-click menu, settings window, JSON settings in %APPDATA%, single instance, "start with Windows", one exe or installer, in C# (.NET 8 WinForms) or Python (pystray). Use when a user says "tray icon", "notification area", "runs in the background", "minimize to tray", or "autostart".
+description: 'Scaffold a small Windows tray utility: icon with right-click menu, settings window, JSON settings in %APPDATA%, single instance, "start with Windows", one exe or installer, in C# (.NET 8 WinForms) or Python (pystray). Use when a user says "tray icon", "notification area", "runs in the background", "minimize to tray", or "autostart".'
 ---
 
 # Windows tray app

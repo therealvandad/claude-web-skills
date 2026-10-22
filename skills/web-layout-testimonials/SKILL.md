@@ -1,6 +1,6 @@
 ---
 name: web-layout-testimonials
-description: Build a testimonials section: quote cards with avatar, name and role in a responsive grid or masonry "quote wall", plus an optional horizontal scroll-snap scroller, in Tailwind v4 with no libraries. Use whenever a user asks for testimonials, customer quotes, reviews, "what people say", social proof, a logo-and-quote strip or a "wall of love".
+description: 'Build a testimonials section: quote cards with avatar, name and role in a responsive grid or masonry "quote wall", plus an optional horizontal scroll-snap scroller, in Tailwind v4 with no libraries. Use whenever a user asks for testimonials, customer quotes, reviews, "what people say", social proof, a logo-and-quote strip or a "wall of love".'
 ---
 
 # Testimonials

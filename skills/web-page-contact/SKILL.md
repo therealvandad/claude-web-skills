@@ -1,6 +1,6 @@
 ---
 name: web-page-contact
-description: Build a contact page in Tailwind v4: a short form beside the address, hours, phone and email, an accessible map embed, "which channel for what" guidance, and an inline success state. Use whenever a user asks for a contact page, contact us, "get in touch", enquiry form, support contact, booking request or "how do people reach us".
+description: 'Build a contact page in Tailwind v4: a short form beside the address, hours, phone and email, an accessible map embed, "which channel for what" guidance, and an inline success state. Use whenever a user asks for a contact page, contact us, "get in touch", enquiry form, support contact, booking request or "how do people reach us".'
 ---
 
 # Contact page

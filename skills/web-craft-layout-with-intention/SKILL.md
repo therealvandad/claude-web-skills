@@ -1,6 +1,6 @@
 ---
 name: web-craft-layout-with-intention
-description: Lay out pages that do not read as a template: asymmetric grids (lg:grid-cols-[1.2fr_0.8fr]), left-aligned headings with a measure, full-bleed images, sticky and offset columns, sections of different heights, editorial numbering, in Tailwind v4. Use whenever a user says the layout "looks like a template", "everything is centred", "too symmetrical", "boring layout", or wants a page that feels designed.
+description: 'Lay out pages that do not read as a template: asymmetric grids (lg:grid-cols-[1.2fr_0.8fr]), left-aligned headings with a measure, full-bleed images, sticky and offset columns, sections of different heights, editorial numbering, in Tailwind v4. Use whenever a user says the layout "looks like a template", "everything is centred", "too symmetrical", "boring layout", or wants a page that feels designed.'
 ---
 
 # Layout with intention

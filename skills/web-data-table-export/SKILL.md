@@ -1,6 +1,6 @@
 ---
 name: web-data-table-export
-description: Add export to a data table: download the visible, sorted, filtered rows as a CSV file (correct quoting, UTF-8 BOM for Excel), copy them to the clipboard as tab-separated text, and a print stylesheet, in vanilla JS and Tailwind v4. Use whenever a user asks for "export to CSV", "download as Excel", "copy table", "print this table", or "export button".
+description: 'Add export to a data table: download the visible, sorted, filtered rows as a CSV file (correct quoting, UTF-8 BOM for Excel), copy them to the clipboard as tab-separated text, and a print stylesheet, in vanilla JS and Tailwind v4. Use whenever a user asks for "export to CSV", "download as Excel", "copy table", "print this table", or "export button".'
 ---
 
 # Table export: CSV, clipboard, print

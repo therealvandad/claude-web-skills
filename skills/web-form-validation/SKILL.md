@@ -1,6 +1,6 @@
 ---
 name: web-form-validation
-description: Add inline, accessible validation to HTML forms using the browser's constraint validation API plus a vanilla JS layer: per-field error messages under the input, aria-invalid and aria-describedby wiring, validate-on-blur then re-validate-on-input, focus the first bad field on submit. Use whenever a user says "validate this form", "show errors", "required fields", "check the email", or "the form submits empty".
+description: 'Add inline, accessible validation to HTML forms using the browser''s constraint validation API plus a vanilla JS layer: per-field error messages under the input, aria-invalid and aria-describedby wiring, validate-on-blur then re-validate-on-input, focus the first bad field on submit. Use whenever a user says "validate this form", "show errors", "required fields", "check the email", or "the form submits empty".'
 ---
 
 # Form validation

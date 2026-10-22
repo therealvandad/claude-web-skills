@@ -1,6 +1,6 @@
 ---
 name: web-form-submit-with-fetch
-description: Submit any HTML form with fetch instead of a page reload: FormData, a loading button state, accessible success and error messages, server field errors mapped to inline slots, a honeypot and timing check against bots, and double-submit protection. Use whenever a user says "submit without refreshing", "ajax form", "send to my API", "thank-you message", or "stop spam submissions".
+description: 'Submit any HTML form with fetch instead of a page reload: FormData, a loading button state, accessible success and error messages, server field errors mapped to inline slots, a honeypot and timing check against bots, and double-submit protection. Use whenever a user says "submit without refreshing", "ajax form", "send to my API", "thank-you message", or "stop spam submissions".'
 ---
 
 # Submit a form with fetch

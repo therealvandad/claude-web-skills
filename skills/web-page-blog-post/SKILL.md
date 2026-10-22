@@ -1,6 +1,6 @@
 ---
 name: web-page-blog-post
-description: Build a blog post or article page in Tailwind v4: title block with byline, date and reading time, a 65ch prose column beside a sticky table of contents, figures with captions, author box, related posts and Article JSON-LD. Use whenever a user asks for a blog page, article layout, post template, "long-form reading page" or a newsletter archive entry.
+description: 'Build a blog post or article page in Tailwind v4: title block with byline, date and reading time, a 65ch prose column beside a sticky table of contents, figures with captions, author box, related posts and Article JSON-LD. Use whenever a user asks for a blog page, article layout, post template, "long-form reading page" or a newsletter archive entry.'
 ---
 
 # Blog post page

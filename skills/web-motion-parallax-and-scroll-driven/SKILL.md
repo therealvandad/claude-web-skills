@@ -1,6 +1,6 @@
 ---
 name: web-motion-parallax-and-scroll-driven
-description: Build scroll-driven animations with pure CSS (animation-timeline: scroll() / view()) for parallax backgrounds, reading-progress bars, and elements that fade or scale as they pass through the viewport, with an @supports gate, reduced-motion handling, and a JS fallback. Use whenever a user asks for "parallax", "animate on scroll position", "progress bar as I scroll", "scroll-linked", "scrubbed animation", or "scroll-driven animations".
+description: 'Build scroll-driven animations with pure CSS (animation-timeline: scroll() / view()) for parallax backgrounds, reading-progress bars, and elements that fade or scale as they pass through the viewport, with an @supports gate, reduced-motion handling, and a JS fallback. Use whenever a user asks for "parallax", "animate on scroll position", "progress bar as I scroll", "scroll-linked", "scrubbed animation", or "scroll-driven animations".'
 ---
 
 # Parallax and scroll-driven animations

@@ -1,6 +1,6 @@
 ---
 name: web-i18n-multilanguage-structure
-description: Structure a static site in multiple languages: one folder per language (/en/, /de/, /ar/), correct `lang` and `dir` per page, reciprocal hreflang and x-default links, a switcher that keeps the current page, a root language redirect and sitemap alternates. Use when a user says "translate the site", "multiple languages", "add German/Arabic", "hreflang", "language switcher" or "which URL structure for languages".
+description: 'Structure a static site in multiple languages: one folder per language (/en/, /de/, /ar/), correct `lang` and `dir` per page, reciprocal hreflang and x-default links, a switcher that keeps the current page, a root language redirect and sitemap alternates. Use when a user says "translate the site", "multiple languages", "add German/Arabic", "hreflang", "language switcher" or "which URL structure for languages".'
 ---
 
 # Multi-language site structure

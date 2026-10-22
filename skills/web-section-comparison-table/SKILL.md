@@ -1,6 +1,6 @@
 ---
 name: web-section-comparison-table
-description: Build a feature comparison table: a real <table> with scoped headers, a sticky first column that scrolls horizontally on phones, check and dash cells with text equivalents, and a highlighted recommended column, in Tailwind v4. Use whenever a user asks to "compare plans", tiers, products or competitors, or says "comparison table", "feature matrix", or "us vs them".
+description: 'Build a feature comparison table: a real <table> with scoped headers, a sticky first column that scrolls horizontally on phones, check and dash cells with text equivalents, and a highlighted recommended column, in Tailwind v4. Use whenever a user asks to "compare plans", tiers, products or competitors, or says "comparison table", "feature matrix", or "us vs them".'
 ---
 
 # Comparison table

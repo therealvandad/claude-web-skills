@@ -1,6 +1,6 @@
 ---
 name: web-design-empty-and-error-states
-description: Build the non-happy-path screens with Tailwind: empty state (no data, no search results), inline and full-page errors, offline banner and 404 page, each with icon, clear copy and one primary action. Use whenever a user asks for a "no results" message, a 404 page, an error page, "what to show when the list is empty", or an offline notice.
+description: 'Build the non-happy-path screens with Tailwind: empty state (no data, no search results), inline and full-page errors, offline banner and 404 page, each with icon, clear copy and one primary action. Use whenever a user asks for a "no results" message, a 404 page, an error page, "what to show when the list is empty", or an offline notice.'
 ---
 
 # Empty and error states

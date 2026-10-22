@@ -1,6 +1,6 @@
 ---
 name: web-motion-reduced-motion
-description: Set up a site-wide prefers-reduced-motion strategy: Tailwind motion-safe:/motion-reduce: variants, a global CSS safety net, the JS matchMedia check, a persisted "reduce motion" toggle, and rules for what to remove versus keep. Use whenever a user mentions "reduced motion", "accessible animations", "users who get motion sick", "turn off animations setting", or wants existing animations made accessible.
+description: 'Set up a site-wide prefers-reduced-motion strategy: Tailwind motion-safe:/motion-reduce: variants, a global CSS safety net, the JS matchMedia check, a persisted "reduce motion" toggle, and rules for what to remove versus keep. Use whenever a user mentions "reduced motion", "accessible animations", "users who get motion sick", "turn off animations setting", or wants existing animations made accessible.'
 ---
 
 # Reduced motion strategy

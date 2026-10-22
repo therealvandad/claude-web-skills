@@ -1,6 +1,6 @@
 ---
 name: web-page-help-center
-description: Build a help centre or support site in Tailwind v4: search with live filtering, category cards with article counts, FAQ accordions, a "still stuck" contact row, and an article page with "was this helpful" buttons. Use whenever a user asks for a help center, support page, FAQ page, knowledge base, "how do I" page or support hub.
+description: 'Build a help centre or support site in Tailwind v4: search with live filtering, category cards with article counts, FAQ accordions, a "still stuck" contact row, and an article page with "was this helpful" buttons. Use whenever a user asks for a help center, support page, FAQ page, knowledge base, "how do I" page or support hub.'
 ---
 
 # Help centre

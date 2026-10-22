@@ -1,6 +1,6 @@
 ---
 name: web-css-container-queries
-description: Make a component respond to its parent's width instead of the viewport, using CSS @container and Tailwind v4's built-in @container / @md: / @lg: variants. Use whenever a card, widget or sidebar panel must work in both a narrow column and full-width, when a user says "responsive component", "this card breaks in the sidebar", or asks about container queries.
+description: 'Make a component respond to its parent''s width instead of the viewport, using CSS @container and Tailwind v4''s built-in @container / @md: / @lg: variants. Use whenever a card, widget or sidebar panel must work in both a narrow column and full-width, when a user says "responsive component", "this card breaks in the sidebar", or asks about container queries.'
 ---
 
 # Container queries

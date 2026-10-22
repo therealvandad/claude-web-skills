@@ -1,6 +1,6 @@
 ---
 name: web-css-spacing-scale
-description: A consistent spacing system for a site: Tailwind v4's 4px scale, which steps to use inside components versus between sections, gap versus margin versus padding rules, and a vertical rhythm for page sections. Use whenever a user asks about spacing, padding, margins, "the gaps look uneven", "how much space between sections", or wants a design-system spacing scale.
+description: 'A consistent spacing system for a site: Tailwind v4''s 4px scale, which steps to use inside components versus between sections, gap versus margin versus padding rules, and a vertical rhythm for page sections. Use whenever a user asks about spacing, padding, margins, "the gaps look uneven", "how much space between sections", or wants a design-system spacing scale.'
 ---
 
 # Spacing scale and rhythm

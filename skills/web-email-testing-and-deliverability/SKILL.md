@@ -1,6 +1,6 @@
 ---
 name: web-email-testing-and-deliverability
-description: Get HTML email into the inbox and verify it renders: SPF, DKIM and DMARC DNS records with example values, List-Unsubscribe and one-click List-Unsubscribe-Post headers, spam-trigger content, the 102 KB Gmail clip and which clients to test. Use when a user says "emails go to spam", "set up SPF DKIM DMARC", "unsubscribe header", "test my email" or "Gmail bulk sender rules".
+description: 'Get HTML email into the inbox and verify it renders: SPF, DKIM and DMARC DNS records with example values, List-Unsubscribe and one-click List-Unsubscribe-Post headers, spam-trigger content, the 102 KB Gmail clip and which clients to test. Use when a user says "emails go to spam", "set up SPF DKIM DMARC", "unsubscribe header", "test my email" or "Gmail bulk sender rules".'
 ---
 
 # Email testing and deliverability

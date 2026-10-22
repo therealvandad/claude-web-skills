@@ -1,6 +1,6 @@
 ---
 name: web-data-fetch-and-cache
-description: Load chart data from JSON or CSV in vanilla JS: a quote-aware CSV parser, localStorage caching with a max age, timeouts, polling that pauses in hidden tabs, and loading, stale and error states. Use whenever a user asks to "load data from a CSV", "fetch JSON for a chart", "cache API results", "refresh every minute", or "show last updated".
+description: 'Load chart data from JSON or CSV in vanilla JS: a quote-aware CSV parser, localStorage caching with a max age, timeouts, polling that pauses in hidden tabs, and loading, stale and error states. Use whenever a user asks to "load data from a CSV", "fetch JSON for a chart", "cache API results", "refresh every minute", or "show last updated".'
 ---
 
 # Fetch and cache data

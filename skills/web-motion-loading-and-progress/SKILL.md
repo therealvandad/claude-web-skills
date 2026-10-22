@@ -1,6 +1,6 @@
 ---
 name: web-motion-loading-and-progress
-description: Build animated loading indicators: a CSS spinner, an indeterminate progress bar, a determinate bar driven by JS, and a skeleton shimmer, all with aria-busy / role=progressbar / live regions and a calm reduced-motion version. Use whenever a user asks for a "spinner", "loading animation", "progress bar", "shimmer", "skeleton loader", "loading state", or "something while fetching".
+description: 'Build animated loading indicators: a CSS spinner, an indeterminate progress bar, a determinate bar driven by JS, and a skeleton shimmer, all with aria-busy / role=progressbar / live regions and a calm reduced-motion version. Use whenever a user asks for a "spinner", "loading animation", "progress bar", "shimmer", "skeleton loader", "loading state", or "something while fetching".'
 ---
 
 # Loading and progress motion

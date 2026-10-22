@@ -1,6 +1,6 @@
 ---
 name: web-section-team-grid
-description: Build a team section or people grid: photo, name, role and one or two social links per person, as a responsive list with hover and focus states, plus a compact list variant for large teams, in Tailwind v4. Use whenever a user asks for a "team section", "meet the team", "our people", "staff directory", "founders", or "author bios".
+description: 'Build a team section or people grid: photo, name, role and one or two social links per person, as a responsive list with hover and focus states, plus a compact list variant for large teams, in Tailwind v4. Use whenever a user asks for a "team section", "meet the team", "our people", "staff directory", "founders", or "author bios".'
 ---
 
 # Team grid

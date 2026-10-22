@@ -1,6 +1,6 @@
 ---
 name: web-theme-nature-organic
-description: Drop a warm, organic look onto a site in Tailwind v4: Fraunces with its soft axis, Source Sans 3 body, oat paper, forest ink, a moss accent, clay and moss tint surfaces, a faint paper grain, arched and rounded photography, no shadows. Use whenever a user says "natural", "organic", "earthy", "eco", "sustainable", "garden", "farm", "wellness", "botanical" or "warm and calm".
+description: 'Drop a warm, organic look onto a site in Tailwind v4: Fraunces with its soft axis, Source Sans 3 body, oat paper, forest ink, a moss accent, clay and moss tint surfaces, a faint paper grain, arched and rounded photography, no shadows. Use whenever a user says "natural", "organic", "earthy", "eco", "sustainable", "garden", "farm", "wellness", "botanical" or "warm and calm".'
 ---
 
 # Nature organic theme

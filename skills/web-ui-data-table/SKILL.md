@@ -1,6 +1,6 @@
 ---
 name: web-ui-data-table
-description: Build a responsive data table with Tailwind: sticky header, sortable columns with aria-sort, a live filter box, zebra rows, right-aligned numbers, horizontal scroll or stacked-card layout on mobile, all in vanilla JS. Use whenever a user asks for a table, data grid, list of records, sortable or filterable table, "table that works on mobile", or a results list.
+description: 'Build a responsive data table with Tailwind: sticky header, sortable columns with aria-sort, a live filter box, zebra rows, right-aligned numbers, horizontal scroll or stacked-card layout on mobile, all in vanilla JS. Use whenever a user asks for a table, data grid, list of records, sortable or filterable table, "table that works on mobile", or a results list.'
 ---
 
 # Data table

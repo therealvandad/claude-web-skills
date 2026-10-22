@@ -1,6 +1,6 @@
 ---
 name: web-form-file-upload
-description: Build a drag-and-drop file upload zone with Tailwind and vanilla JS: a real file input underneath, image thumbnails, a file list with remove buttons, client-side size and type checks, and DataTransfer syncing so the form still submits natively. Use whenever a user asks for "file upload", "drag and drop files", "image picker", "attach a document", or "upload avatar".
+description: 'Build a drag-and-drop file upload zone with Tailwind and vanilla JS: a real file input underneath, image thumbnails, a file list with remove buttons, client-side size and type checks, and DataTransfer syncing so the form still submits natively. Use whenever a user asks for "file upload", "drag and drop files", "image picker", "attach a document", or "upload avatar".'
 ---
 
 # File upload

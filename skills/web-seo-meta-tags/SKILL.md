@@ -1,6 +1,6 @@
 ---
 name: web-seo-meta-tags
-description: Produce the complete <head> for a page: title and meta description, canonical, viewport, robots, Open Graph and Twitter card tags, favicon set with web manifest, theme-color, hreflang. Use when a user asks for "meta tags", "SEO head", "social preview", "link preview looks wrong", "og:image", "favicon", "canonical", or sets up a new page or site.
+description: 'Produce the complete <head> for a page: title and meta description, canonical, viewport, robots, Open Graph and Twitter card tags, favicon set with web manifest, theme-color, hreflang. Use when a user asks for "meta tags", "SEO head", "social preview", "link preview looks wrong", "og:image", "favicon", "canonical", or sets up a new page or site.'
 ---
 
 # Meta tags and the `<head>`

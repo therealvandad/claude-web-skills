@@ -1,6 +1,6 @@
 ---
 name: web-interactive-calculator
-description: Build a live pricing calculator, quote estimator or product configurator in vanilla JS: form inputs drive an itemised total, money formatted with Intl, the configuration encoded in the URL for sharing, and a print-friendly summary. Use whenever a user asks for a "pricing calculator", "cost estimator", "quote builder", "configurator", "ROI calculator", or "how much will it cost widget".
+description: 'Build a live pricing calculator, quote estimator or product configurator in vanilla JS: form inputs drive an itemised total, money formatted with Intl, the configuration encoded in the URL for sharing, and a print-friendly summary. Use whenever a user asks for a "pricing calculator", "cost estimator", "quote builder", "configurator", "ROI calculator", or "how much will it cost widget".'
 ---
 
 # Pricing calculator with live total

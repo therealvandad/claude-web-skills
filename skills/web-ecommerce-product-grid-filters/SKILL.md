@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-product-grid-filters
-description: Build a shop catalogue page in Tailwind v4: a product grid from JSON, category checkboxes, a price range, sort by price or newest, a live count, filter state in the URL and an empty state, in vanilla JS. Use whenever a user asks for a shop page, product listing, collection page, "filter products", "sort by price" or a catalogue grid.
+description: 'Build a shop catalogue page in Tailwind v4: a product grid from JSON, category checkboxes, a price range, sort by price or newest, a live count, filter state in the URL and an empty state, in vanilla JS. Use whenever a user asks for a shop page, product listing, collection page, "filter products", "sort by price" or a catalogue grid.'
 ---
 
 # Product grid with filters and sort

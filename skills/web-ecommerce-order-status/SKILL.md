@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-order-status
-description: Build order confirmation and tracking pages for a static shop: a thank-you page after Stripe Checkout, an order lookup form, a status timeline (paid, packed, shipped, delivered) from a JSON file or webhook-fed endpoint, and a "what to do if" section. Use whenever a user asks for "order tracking", "track my order", "order status", "thank you page" or "order confirmation".
+description: 'Build order confirmation and tracking pages for a static shop: a thank-you page after Stripe Checkout, an order lookup form, a status timeline (paid, packed, shipped, delivered) from a JSON file or webhook-fed endpoint, and a "what to do if" section. Use whenever a user asks for "order tracking", "track my order", "order status", "thank you page" or "order confirmation".'
 ---
 
 # Order confirmation and tracking

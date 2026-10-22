@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-trust-and-conversion
-description: Add the trust signals that actually lift conversion on a static shop (guarantee, returns, real reviews, clear contact details) plus a calm abandoned-cart reminder, in Tailwind v4. Refuses dark patterns: fake countdowns, fake "12 people viewing", pre-ticked add-ons, confirmshaming. Use whenever a user asks for "trust badges", "increase sales", "urgency", "abandoned cart" or "reduce drop-off".
+description: 'Add the trust signals that actually lift conversion on a static shop (guarantee, returns, real reviews, clear contact details) plus a calm abandoned-cart reminder, in Tailwind v4. Refuses dark patterns: fake countdowns, fake "12 people viewing", pre-ticked add-ons, confirmshaming. Use whenever a user asks for "trust badges", "increase sales", "urgency", "abandoned cart" or "reduce drop-off".'
 ---
 
 # Trust and conversion, without tricks

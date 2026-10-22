@@ -1,6 +1,6 @@
 ---
 name: web-motion-hover-microinteractions
-description: Add subtle hover and focus microinteractions with Tailwind: card lift, link underline that grows, icon nudge on buttons, press-down on active, image zoom in a frame, all transform/opacity-only with motion-safe variants and touch-safe fallbacks. Use whenever a user says "make buttons feel alive", "hover effect", "animated underline", "arrow that moves", "cards should pop", or wants polish on interactive elements.
+description: 'Add subtle hover and focus microinteractions with Tailwind: card lift, link underline that grows, icon nudge on buttons, press-down on active, image zoom in a frame, all transform/opacity-only with motion-safe variants and touch-safe fallbacks. Use whenever a user says "make buttons feel alive", "hover effect", "animated underline", "arrow that moves", "cards should pop", or wants polish on interactive elements.'
 ---
 
 # Hover microinteractions

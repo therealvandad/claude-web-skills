@@ -1,6 +1,6 @@
 ---
 name: web-design-ui-polish-checklist
-description: Run a final visual-polish pass over a Tailwind page: a checklist for alignment, spacing, type, color and contrast, hover/focus/active states, text wrapping and truncation, images, responsive edges and dark mode, each item with a class-level fix. Use whenever a user says the page "looks off", "feels unfinished", asks to polish, refine, tidy up, or review the UI before shipping.
+description: 'Run a final visual-polish pass over a Tailwind page: a checklist for alignment, spacing, type, color and contrast, hover/focus/active states, text wrapping and truncation, images, responsive edges and dark mode, each item with a class-level fix. Use whenever a user says the page "looks off", "feels unfinished", asks to polish, refine, tidy up, or review the UI before shipping.'
 ---
 
 # UI polish checklist

@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-checkout-stripe
-description: Add checkout to a static site with Stripe in test mode: Payment Links for single "buy now" buttons, or a tiny serverless function that creates a Checkout Session from the localStorage cart (prices from its own list, never the client), plus success and cancel pages. Use whenever a user says "checkout", "take payments", "Stripe", "buy button" or "pay with card".
+description: 'Add checkout to a static site with Stripe in test mode: Payment Links for single "buy now" buttons, or a tiny serverless function that creates a Checkout Session from the localStorage cart (prices from its own list, never the client), plus success and cancel pages. Use whenever a user says "checkout", "take payments", "Stripe", "buy button" or "pay with card".'
 ---
 
 # Checkout from a static site with Stripe

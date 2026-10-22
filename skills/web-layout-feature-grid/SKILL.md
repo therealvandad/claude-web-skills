@@ -1,6 +1,6 @@
 ---
 name: web-layout-feature-grid
-description: Build a "features" or "benefits" section: a section heading plus a responsive grid of cards, each with an icon, title and short text, in Tailwind v4. Use whenever a user asks for a features section, "why us", "what you get", benefits, services, a three-column icon list, or "the part under the hero that explains the product".
+description: 'Build a "features" or "benefits" section: a section heading plus a responsive grid of cards, each with an icon, title and short text, in Tailwind v4. Use whenever a user asks for a features section, "why us", "what you get", benefits, services, a three-column icon list, or "the part under the hero that explains the product".'
 ---
 
 # Feature grid

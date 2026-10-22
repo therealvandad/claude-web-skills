@@ -1,6 +1,6 @@
 ---
 name: arduino-serial
-description: Talk to an Arduino or other microcontroller over USB serial from a Windows desktop app: a line-based ASCII protocol (PING/PONG, VER, SET, GET), a non-blocking sketch, C# SerialPort and Python pyserial clients with port discovery, background reader and reconnect. Use for "COM port", "SerialPort", "pyserial", "read or set fan speed", "test without hardware".
+description: 'Talk to an Arduino or other microcontroller over USB serial from a Windows desktop app: a line-based ASCII protocol (PING/PONG, VER, SET, GET), a non-blocking sketch, C# SerialPort and Python pyserial clients with port discovery, background reader and reconnect. Use for "COM port", "SerialPort", "pyserial", "read or set fan speed", "test without hardware".'
 ---
 
 # Arduino serial

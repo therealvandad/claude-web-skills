@@ -1,6 +1,6 @@
 ---
 name: web-content-static-blog-generator
-description: A 64-line Python 3.10 static blog generator: posts/*.md with front matter become an index, post pages, tag pages and an RSS feed through one template.html. Use when a user says "make a blog without WordPress", "static blog", "blog from Markdown files", "tag pages" or "RSS for my blog".
+description: 'A 64-line Python 3.10 static blog generator: posts/*.md with front matter become an index, post pages, tag pages and an RSS feed through one template.html. Use when a user says "make a blog without WordPress", "static blog", "blog from Markdown files", "tag pages" or "RSS for my blog".'
 ---
 
 # Static blog generator

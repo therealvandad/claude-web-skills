@@ -1,6 +1,6 @@
 ---
 name: web-data-chart-accessibility
-description: Make SVG charts accessible: role="img" with a generated title and text summary, a visible "show as table" toggle, direct labels, SVG patterns and shapes so series never rely on colour alone, and colour-blind-safe categorical and sequential scales. Use whenever a user asks for an "accessible chart", "screen reader chart", "colour blind safe colours", "chart alt text", or "data table fallback".
+description: 'Make SVG charts accessible: role="img" with a generated title and text summary, a visible "show as table" toggle, direct labels, SVG patterns and shapes so series never rely on colour alone, and colour-blind-safe categorical and sequential scales. Use whenever a user asks for an "accessible chart", "screen reader chart", "colour blind safe colours", "chart alt text", or "data table fallback".'
 ---
 
 # Chart accessibility

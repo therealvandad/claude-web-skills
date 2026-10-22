@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-wishlist
-description: Add a wishlist to a static shop: a heart toggle (aria-pressed, localStorage) on product cards, a header count, a wishlist page with "move to cart", and a share link carrying the items in the URL, in Tailwind v4 and vanilla JS. Use whenever a user asks for a wishlist, favourites, "save for later", "heart button" or "share my list".
+description: 'Add a wishlist to a static shop: a heart toggle (aria-pressed, localStorage) on product cards, a header count, a wishlist page with "move to cart", and a share link carrying the items in the URL, in Tailwind v4 and vanilla JS. Use whenever a user asks for a wishlist, favourites, "save for later", "heart button" or "share my list".'
 ---
 
 # Wishlist without an account

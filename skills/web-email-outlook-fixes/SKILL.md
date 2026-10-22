@@ -1,6 +1,6 @@
 ---
 name: web-email-outlook-fixes
-description: Fix classic Outlook for Windows (the Word rendering engine): MSO conditional comments, ghost tables, VML bulletproof buttons with rounded corners, VML background images, exact line-heights, spacer rows and DPI scaling. Use when a user says "Outlook breaks my email", "background image missing in Outlook", "rounded button in Outlook" or "extra spacing in Outlook".
+description: 'Fix classic Outlook for Windows (the Word rendering engine): MSO conditional comments, ghost tables, VML bulletproof buttons with rounded corners, VML background images, exact line-heights, spacer rows and DPI scaling. Use when a user says "Outlook breaks my email", "background image missing in Outlook", "rounded button in Outlook" or "extra spacing in Outlook".'
 ---
 
 # Outlook fixes for HTML email

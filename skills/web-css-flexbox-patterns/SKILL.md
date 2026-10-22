@@ -1,6 +1,6 @@
 ---
 name: web-css-flexbox-patterns
-description: The daily flexbox recipes in Tailwind v4 classes: perfect centering, space-between toolbars, wrapping tag rows with gap, "push this to the right" with ml-auto, sticky-footer columns, and the holy-grail shell. Use whenever a user asks to center something, align items in a row, build a toolbar or button bar, make chips wrap, or asks why flex items squish or overflow.
+description: 'The daily flexbox recipes in Tailwind v4 classes: perfect centering, space-between toolbars, wrapping tag rows with gap, "push this to the right" with ml-auto, sticky-footer columns, and the holy-grail shell. Use whenever a user asks to center something, align items in a row, build a toolbar or button bar, make chips wrap, or asks why flex items squish or overflow.'
 ---
 
 # Flexbox patterns

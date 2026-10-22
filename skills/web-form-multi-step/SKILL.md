@@ -1,6 +1,6 @@
 ---
 name: web-form-multi-step
-description: Build a multi-step form (wizard) with Tailwind and vanilla JS: fieldsets as steps, a progress indicator with aria-current, Back/Next buttons that validate only the current step, one state object that survives navigation, a review step, and focus management. Use whenever a user asks for a "wizard", "step-by-step form", "onboarding flow", "checkout steps", or "split this long form into pages".
+description: 'Build a multi-step form (wizard) with Tailwind and vanilla JS: fieldsets as steps, a progress indicator with aria-current, Back/Next buttons that validate only the current step, one state object that survives navigation, a review step, and focus management. Use whenever a user asks for a "wizard", "step-by-step form", "onboarding flow", "checkout steps", or "split this long form into pages".'
 ---
 
 # Multi-step form

@@ -1,6 +1,6 @@
 ---
 name: web-email-responsive
-description: Make HTML email fluid on phones with the hybrid method: max-width cells and inline-block columns that wrap without media queries, MSO ghost tables for Outlook, and a small @media block that stacks, resizes and pads where supported. Use when a user says "responsive email", "email columns won't stack", "email too small on iPhone" or "mobile email layout".
+description: 'Make HTML email fluid on phones with the hybrid method: max-width cells and inline-block columns that wrap without media queries, MSO ghost tables for Outlook, and a small @media block that stacks, resizes and pads where supported. Use when a user says "responsive email", "email columns won''t stack", "email too small on iPhone" or "mobile email layout".'
 ---
 
 # Responsive HTML email

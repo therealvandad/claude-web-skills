@@ -1,6 +1,6 @@
 ---
 name: web-section-steps-timeline
-description: Build a "how it works" steps section or timeline: numbered horizontal steps with CSS connecting lines that stack vertically on phones, plus a dated vertical timeline for history or roadmap pages, as an ordered list in Tailwind v4. Use whenever a user asks for "steps", "how it works", "the process", "timeline", "our story", "roadmap", or "1-2-3 section".
+description: 'Build a "how it works" steps section or timeline: numbered horizontal steps with CSS connecting lines that stack vertically on phones, plus a dated vertical timeline for history or roadmap pages, as an ordered list in Tailwind v4. Use whenever a user asks for "steps", "how it works", "the process", "timeline", "our story", "roadmap", or "1-2-3 section".'
 ---
 
 # Steps and timeline

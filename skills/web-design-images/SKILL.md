@@ -1,6 +1,6 @@
 ---
 name: web-design-images
-description: Mark up responsive images the right way: `<picture>` with AVIF/WebP fallbacks, `srcset`/`sizes` for resolution switching, art direction per breakpoint, `width`/`height` to prevent layout shift, blurred or color placeholders, and Tailwind `object-*`/`aspect-*` containers. Use whenever a user adds a photo, hero image, thumbnail, avatar, or asks why images look blurry, load slowly, or jump the layout.
+description: 'Mark up responsive images the right way: `<picture>` with AVIF/WebP fallbacks, `srcset`/`sizes` for resolution switching, art direction per breakpoint, `width`/`height` to prevent layout shift, blurred or color placeholders, and Tailwind `object-*`/`aspect-*` containers. Use whenever a user adds a photo, hero image, thumbnail, avatar, or asks why images look blurry, load slowly, or jump the layout.'
 ---
 
 # Images

@@ -43,7 +43,13 @@ def main() -> int:
         for raw in m.group(1).splitlines():
             if ":" in raw and not raw.startswith(" "):
                 k, _, v = raw.partition(":")
-                fm[k.strip()] = v.strip().strip('"').strip("'")
+                v = v.strip()
+                if len(v) > 1 and v[0] == v[-1] == "'":
+                    v = v[1:-1].replace("''", "'")
+                fm[k.strip()] = v.strip('"')
+        raw_desc = re.search(r"^description:[ 	]*(.*)$", m.group(1), re.M)
+        if raw_desc and raw_desc.group(1)[:1] not in ("'", '"', ">", "|") and (": " in raw_desc.group(1) or " #" in raw_desc.group(1)):
+            errors.append(f"{d.name}: unquoted description contains ': ' or ' #' (invalid YAML; wrap it in quotes)")
         name, desc = fm.get("name", ""), fm.get("description", "")
         found[name] = d.name
         if name != d.name:

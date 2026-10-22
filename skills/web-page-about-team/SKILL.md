@@ -1,6 +1,6 @@
 ---
 name: web-page-about-team
-description: Build an "about us" or team page in Tailwind v4: an origin story with real dates and numbers, a sticky-heading values list, a team grid, a timeline, a press row and a contact row. Use whenever a user asks for an about page, about us, "our story", company page, team page, "meet the team" or who-we-are page.
+description: 'Build an "about us" or team page in Tailwind v4: an origin story with real dates and numbers, a sticky-heading values list, a team grid, a timeline, a press row and a contact row. Use whenever a user asks for an about page, about us, "our story", company page, team page, "meet the team" or who-we-are page.'
 ---
 
 # About and team page

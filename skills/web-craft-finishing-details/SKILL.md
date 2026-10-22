@@ -1,6 +1,6 @@
 ---
 name: web-craft-finishing-details
-description: Add the handmade finishing details to a Tailwind page: hairline borders, numbered section eyebrows, sparing small-caps labels, 4% grain, baseline-aligned columns, one icon stroke width, a radius hierarchy, a brand focus ring and a real footer colophon. Use when a user says the page "looks vibe coded", "looks AI generated", "feels unfinished", or wants it "polished" or "professional".
+description: 'Add the handmade finishing details to a Tailwind page: hairline borders, numbered section eyebrows, sparing small-caps labels, 4% grain, baseline-aligned columns, one icon stroke width, a radius hierarchy, a brand focus ring and a real footer colophon. Use when a user says the page "looks vibe coded", "looks AI generated", "feels unfinished", or wants it "polished" or "professional".'
 ---
 
 # Finishing details

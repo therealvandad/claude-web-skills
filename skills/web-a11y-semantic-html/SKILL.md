@@ -1,6 +1,6 @@
 ---
 name: web-a11y-semantic-html
-description: Write or fix page markup with the right HTML elements: landmarks (header, nav, main, footer), a heading outline, real lists, button versus link, native form and disclosure elements. Use whenever a user asks to "make it semantic", "fix the div soup", "is this accessible", "screen reader friendly", "proper HTML structure", or reviews markup before adding ARIA.
+description: 'Write or fix page markup with the right HTML elements: landmarks (header, nav, main, footer), a heading outline, real lists, button versus link, native form and disclosure elements. Use whenever a user asks to "make it semantic", "fix the div soup", "is this accessible", "screen reader friendly", "proper HTML structure", or reviews markup before adding ARIA.'
 ---
 
 # Semantic HTML first

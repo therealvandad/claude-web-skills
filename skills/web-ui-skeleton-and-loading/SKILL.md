@@ -1,6 +1,6 @@
 ---
 name: web-ui-skeleton-and-loading
-description: Build loading states with Tailwind: skeleton screens that mirror the final layout, an accessible spinner, determinate and indeterminate progress bars, aria-busy/aria-live announcements, and a swap-in pattern for fetched content. Use whenever a user asks for a skeleton, placeholder, shimmer, spinner, loader, "loading..." state, progress bar, or wants to avoid layout jump while data loads.
+description: 'Build loading states with Tailwind: skeleton screens that mirror the final layout, an accessible spinner, determinate and indeterminate progress bars, aria-busy/aria-live announcements, and a swap-in pattern for fetched content. Use whenever a user asks for a skeleton, placeholder, shimmer, spinner, loader, "loading..." state, progress bar, or wants to avoid layout jump while data loads.'
 ---
 
 # Skeletons, spinners and progress

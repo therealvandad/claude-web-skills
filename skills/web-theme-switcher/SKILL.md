@@ -1,6 +1,6 @@
 ---
 name: web-theme-switcher
-description: Build a multi-theme architecture in Tailwind v4: semantic tokens redefined per [data-theme], a radio picker with live swatch previews, no-flash persistence in localStorage and a checklist for adding a theme. Use whenever a user asks for a "theme switcher", "theme picker", "multiple themes", "brand switcher", "skins" or "white-label".
+description: 'Build a multi-theme architecture in Tailwind v4: semantic tokens redefined per [data-theme], a radio picker with live swatch previews, no-flash persistence in localStorage and a checklist for adding a theme. Use whenever a user asks for a "theme switcher", "theme picker", "multiple themes", "brand switcher", "skins" or "white-label".'
 ---
 
 # Theme switcher

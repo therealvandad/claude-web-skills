@@ -1,6 +1,6 @@
 ---
 name: web-craft-typography-with-character
-description: Pair fonts beyond the default Inter/system sans: named pairings (Fraunces/IBM Plex, Instrument Serif/Geist, Space Grotesk/JetBrains Mono), display headings with optical sizing and deliberate weight, when a serif or mono earns its place, as Tailwind v4 @theme tokens. Use whenever a user says the type "looks generic", "looks like every AI site", "boring font", or wants headings with character.
+description: 'Pair fonts beyond the default Inter/system sans: named pairings (Fraunces/IBM Plex, Instrument Serif/Geist, Space Grotesk/JetBrains Mono), display headings with optical sizing and deliberate weight, when a serif or mono earns its place, as Tailwind v4 @theme tokens. Use whenever a user says the type "looks generic", "looks like every AI site", "boring font", or wants headings with character.'
 ---
 
 # Typography with character

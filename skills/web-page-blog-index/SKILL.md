@@ -1,6 +1,6 @@
 ---
 name: web-page-blog-index
-description: Build a blog index or post listing page in Tailwind v4: a featured latest post, a category filter that works as links and as client-side filtering, a magazine card grid, pagination and an RSS link. Use whenever a user asks for a blog page, blog home, news page, articles list, "all posts", journal, changelog list or a post archive.
+description: 'Build a blog index or post listing page in Tailwind v4: a featured latest post, a category filter that works as links and as client-side filtering, a magazine card grid, pagination and an RSS link. Use whenever a user asks for a blog page, blog home, news page, articles list, "all posts", journal, changelog list or a post archive.'
 ---
 
 # Blog index page

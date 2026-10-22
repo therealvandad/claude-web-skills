@@ -1,6 +1,6 @@
 ---
 name: web-ui-buttons
-description: Build a button system with Tailwind v4: primary/secondary/outline/ghost/danger variants, three sizes, icon-only buttons with labels, a loading state, link-styled-as-button rules, and segmented button groups, defined once with @layer components. Use whenever a user asks for buttons, a CTA, button styles, icon buttons, a button group, toolbar, or "make the buttons consistent".
+description: 'Build a button system with Tailwind v4: primary/secondary/outline/ghost/danger variants, three sizes, icon-only buttons with labels, a loading state, link-styled-as-button rules, and segmented button groups, defined once with @layer components. Use whenever a user asks for buttons, a CTA, button styles, icon buttons, a button group, toolbar, or "make the buttons consistent".'
 ---
 
 # Buttons

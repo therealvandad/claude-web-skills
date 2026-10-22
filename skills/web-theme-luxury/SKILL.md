@@ -1,6 +1,6 @@
 ---
 name: web-theme-luxury
-description: Drop a quiet luxury look onto a site in Tailwind v4: Bodoni Moda display, Jost body at small sizes, cream paper, near-black night bands and gold used as a hairline, never as decoration, generous spacing, no radius, no shadows. Use whenever a user says "luxury", "premium", "high-end", "elegant", "boutique", "like a fashion house", "black and gold" or "expensive-looking".
+description: 'Drop a quiet luxury look onto a site in Tailwind v4: Bodoni Moda display, Jost body at small sizes, cream paper, near-black night bands and gold used as a hairline, never as decoration, generous spacing, no radius, no shadows. Use whenever a user says "luxury", "premium", "high-end", "elegant", "boutique", "like a fashion house", "black and gold" or "expensive-looking".'
 ---
 
 # Luxury theme

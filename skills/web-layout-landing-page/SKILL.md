@@ -1,6 +1,6 @@
 ---
 name: web-layout-landing-page
-description: Compose a complete marketing landing page in Tailwind v4: section order (hero, logos, features, how it works, testimonials, pricing, FAQ, final CTA, footer), vertical spacing rhythm, alternating backgrounds and where to repeat the call to action. Use whenever a user asks for a landing page, marketing site, product page, homepage, "one-pager", launch page or "a full page for my app".
+description: 'Compose a complete marketing landing page in Tailwind v4: section order (hero, logos, features, how it works, testimonials, pricing, FAQ, final CTA, footer), vertical spacing rhythm, alternating backgrounds and where to repeat the call to action. Use whenever a user asks for a landing page, marketing site, product page, homepage, "one-pager", launch page or "a full page for my app".'
 ---
 
 # Landing page composition

@@ -1,6 +1,6 @@
 ---
 name: session-timeline
-description: Render a timeline page from the Claude Code session logs: what was worked on when, across projects, with files changed and commits per session. Use when the user asks "what did I work on this week", "session history", "timeline of my sessions", "which session wrote X", or wants standup notes.
+description: 'Render a timeline page from the Claude Code session logs: what was worked on when, across projects, with files changed and commits per session. Use when the user asks "what did I work on this week", "session history", "timeline of my sessions", "which session wrote X", or wants standup notes.'
 ---
 
 # Session Timeline

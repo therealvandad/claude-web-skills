@@ -1,6 +1,6 @@
 ---
 name: web-nav-anchor-and-smooth-scroll
-description: Set up in-page anchor links done right: stable ids, scroll-margin-top so targets clear a sticky header, smooth scrolling gated by prefers-reduced-motion, focus moved to the target for keyboard and screen-reader users, "back to top", heading anchor links. Use when a user asks for jump links, "scroll to section", smooth scroll, anchors landing under the header, back-to-top button, or section links.
+description: 'Set up in-page anchor links done right: stable ids, scroll-margin-top so targets clear a sticky header, smooth scrolling gated by prefers-reduced-motion, focus moved to the target for keyboard and screen-reader users, "back to top", heading anchor links. Use when a user asks for jump links, "scroll to section", smooth scroll, anchors landing under the header, back-to-top button, or section links.'
 ---
 
 # Anchor links and smooth scrolling

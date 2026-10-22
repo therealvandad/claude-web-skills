@@ -1,6 +1,6 @@
 ---
 name: web-data-kpi-dashboard
-description: Build a KPI dashboard section in Tailwind v4: a responsive grid of metric tiles with the figure, a delta versus the previous period, a trend arrow that knows whether up is good, and a 7/30/90-day range switch. Use whenever a user asks for a "dashboard", "KPI cards", "metrics overview", "stats tiles with arrows", or "admin home page numbers".
+description: 'Build a KPI dashboard section in Tailwind v4: a responsive grid of metric tiles with the figure, a delta versus the previous period, a trend arrow that knows whether up is good, and a 7/30/90-day range switch. Use whenever a user asks for a "dashboard", "KPI cards", "metrics overview", "stats tiles with arrows", or "admin home page numbers".'
 ---
 
 # KPI dashboard

@@ -1,6 +1,6 @@
 ---
 name: web-page-404-and-legal
-description: Build site utility pages in Tailwind v4: a 404 with search and likely destinations, a maintenance page with a 503 status, and privacy or terms pages with a sticky table of contents, "last updated" and canonical. Use whenever a user asks for a 404 page, "page not found", maintenance page, privacy policy page, terms of service or legal page.
+description: 'Build site utility pages in Tailwind v4: a 404 with search and likely destinations, a maintenance page with a 503 status, and privacy or terms pages with a sticky table of contents, "last updated" and canonical. Use whenever a user asks for a 404 page, "page not found", maintenance page, privacy policy page, terms of service or legal page.'
 ---
 
 # 404, maintenance and legal pages

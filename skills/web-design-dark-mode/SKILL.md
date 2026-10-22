@@ -1,6 +1,6 @@
 ---
 name: web-design-dark-mode
-description: Add dark mode to a Tailwind v4 site: a three-way light/dark/system toggle persisted in localStorage with no flash on load, `color-scheme` for native controls, and rules for images, shadows, borders and brand colors in dark. Use whenever a user asks for dark mode, a theme switcher, "night mode", or complains the site flashes white on reload.
+description: 'Add dark mode to a Tailwind v4 site: a three-way light/dark/system toggle persisted in localStorage with no flash on load, `color-scheme` for native controls, and rules for images, shadows, borders and brand colors in dark. Use whenever a user asks for dark mode, a theme switcher, "night mode", or complains the site flashes white on reload.'
 ---
 
 # Dark mode

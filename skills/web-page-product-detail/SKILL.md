@@ -1,6 +1,6 @@
 ---
 name: web-page-product-detail
-description: Build an e-commerce product page in Tailwind v4: breadcrumbs, an image gallery with thumbnail switching, a sticky buy box with price, variants as radio groups and add-to-cart, a specs table, reviews and related products, with Product JSON-LD. Use whenever a user asks for a product page, shop page, product detail, PDP, "item page" or a buy page.
+description: 'Build an e-commerce product page in Tailwind v4: breadcrumbs, an image gallery with thumbnail switching, a sticky buy box with price, variants as radio groups and add-to-cart, a specs table, reviews and related products, with Product JSON-LD. Use whenever a user asks for a product page, shop page, product detail, PDP, "item page" or a buy page.'
 ---
 
 # Product detail page

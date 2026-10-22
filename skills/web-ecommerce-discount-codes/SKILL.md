@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-discount-codes
-description: Add a promo code field to a static shop's cart: rules in a codes.json (percent, fixed, free shipping, minimum spend, dates, eligible SKUs), an applied-code chip with remove, specific error copy, and Stripe as the final authority at checkout. Use whenever a user asks for a "discount code", "coupon", "promo code", "voucher", "apply code" or "% off".
+description: 'Add a promo code field to a static shop''s cart: rules in a codes.json (percent, fixed, free shipping, minimum spend, dates, eligible SKUs), an applied-code chip with remove, specific error copy, and Stripe as the final authority at checkout. Use whenever a user asks for a "discount code", "coupon", "promo code", "voucher", "apply code" or "% off".'
 ---
 
 # Discount codes

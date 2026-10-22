@@ -1,6 +1,6 @@
 ---
 name: web-css-variables-theming
-description: Set up a themeable site with CSS custom properties and Tailwind v4 @theme: brand tokens that become utilities, semantic tokens (bg, fg, accent, line) that flip for dark mode or a brand switch, read from CSS and JS. Use whenever a user asks for a theme, brand colours, "change the colour in one place", CSS variables, design tokens, or multi-brand.
+description: 'Set up a themeable site with CSS custom properties and Tailwind v4 @theme: brand tokens that become utilities, semantic tokens (bg, fg, accent, line) that flip for dark mode or a brand switch, read from CSS and JS. Use whenever a user asks for a theme, brand colours, "change the colour in one place", CSS variables, design tokens, or multi-brand.'
 ---
 
 # CSS variables and Tailwind v4 theming

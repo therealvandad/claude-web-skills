@@ -1,6 +1,6 @@
 ---
 name: web-design-color-system
-description: Build a color system in Tailwind v4: a brand ramp (50 to 950) in OKLCH, neutral and status ramps, semantic tokens (surface, text, border, accent) that flip for dark mode, and contrast checks. Use whenever a user asks for a palette, brand colors, "pick colors for my site", theme colors, or wants to replace Tailwind's default colors with their own.
+description: 'Build a color system in Tailwind v4: a brand ramp (50 to 950) in OKLCH, neutral and status ramps, semantic tokens (surface, text, border, accent) that flip for dark mode, and contrast checks. Use whenever a user asks for a palette, brand colors, "pick colors for my site", theme colors, or wants to replace Tailwind''s default colors with their own.'
 ---
 
 # Color system

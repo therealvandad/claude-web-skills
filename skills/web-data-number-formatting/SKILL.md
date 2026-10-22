@@ -1,6 +1,6 @@
 ---
 name: web-data-number-formatting
-description: Format numbers for display with the built-in Intl API, no library: thousands separators, currency, percent, units (kB, km/h), compact notation (1.2K, 3.4M), signed deltas and relative time ("3 days ago"), via cached formatters and data-attributes. Use whenever a user asks to "format a number", "show as money", "add commas", "1.2K style", "time ago", or "percent with one decimal".
+description: 'Format numbers for display with the built-in Intl API, no library: thousands separators, currency, percent, units (kB, km/h), compact notation (1.2K, 3.4M), signed deltas and relative time ("3 days ago"), via cached formatters and data-attributes. Use whenever a user asks to "format a number", "show as money", "add commas", "1.2K style", "time ago", or "percent with one decimal".'
 ---
 
 # Number formatting with Intl

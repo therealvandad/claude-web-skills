@@ -1,6 +1,6 @@
 ---
 name: web-seo-structured-data
-description: Write JSON-LD structured data that Google actually uses: Organization/WebSite, Article/BlogPosting, Product with Offer and ratings, BreadcrumbList, FAQPage, plus LocalBusiness, Event and HowTo. Use when a user asks for "schema markup", "rich results", "rich snippets", "JSON-LD", "schema.org", "star ratings in Google", "FAQ schema", or "knowledge panel".
+description: 'Write JSON-LD structured data that Google actually uses: Organization/WebSite, Article/BlogPosting, Product with Offer and ratings, BreadcrumbList, FAQPage, plus LocalBusiness, Event and HowTo. Use when a user asks for "schema markup", "rich results", "rich snippets", "JSON-LD", "schema.org", "star ratings in Google", "FAQ schema", or "knowledge panel".'
 ---
 
 # Structured data with JSON-LD

@@ -1,6 +1,6 @@
 ---
 name: web-theme-swiss
-description: Drop a complete Swiss / International Typographic Style look onto a site in Tailwind v4: one grotesk, a visible 12-column grid, flush-left ragged-right type, near-white paper, near-black ink, one red accent, thick rules, no radius, no shadows. Use whenever a user says "Swiss style", "Helvetica look", "international style", "grid-based", "Bauhaus-ish", "poster-like" or "clean and typographic".
+description: 'Drop a complete Swiss / International Typographic Style look onto a site in Tailwind v4: one grotesk, a visible 12-column grid, flush-left ragged-right type, near-white paper, near-black ink, one red accent, thick rules, no radius, no shadows. Use whenever a user says "Swiss style", "Helvetica look", "international style", "grid-based", "Bauhaus-ish", "poster-like" or "clean and typographic".'
 ---
 
 # Swiss theme

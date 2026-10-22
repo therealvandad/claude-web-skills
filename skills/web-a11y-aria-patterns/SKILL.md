@@ -1,6 +1,6 @@
 ---
 name: web-a11y-aria-patterns
-description: Add ARIA correctly to custom widgets: when it is needed, the roles and states that matter (aria-expanded, aria-controls, aria-current, aria-live, aria-label vs aria-labelledby, aria-hidden), and how not to break native semantics. Use when a user asks "what aria do I need", "add aria labels", "screen reader announces wrong thing", or builds a toggle, menu, tab, or live status.
+description: 'Add ARIA correctly to custom widgets: when it is needed, the roles and states that matter (aria-expanded, aria-controls, aria-current, aria-live, aria-label vs aria-labelledby, aria-hidden), and how not to break native semantics. Use when a user asks "what aria do I need", "add aria labels", "screen reader announces wrong thing", or builds a toggle, menu, tab, or live status.'
 ---
 
 # ARIA patterns

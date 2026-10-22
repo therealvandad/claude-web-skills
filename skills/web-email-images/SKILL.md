@@ -1,6 +1,6 @@
 ---
 name: web-email-images
-description: Add images to HTML email that survive every client: width and height attributes for Outlook, fluid CSS for phones, 2x retina files, styled alt text and background colour for blocked images, and decorative versus informative alt. Use when a user says "image in email", "email images blown up in Outlook", "images blocked" or "retina email images".
+description: 'Add images to HTML email that survive every client: width and height attributes for Outlook, fluid CSS for phones, 2x retina files, styled alt text and background colour for blocked images, and decorative versus informative alt. Use when a user says "image in email", "email images blown up in Outlook", "images blocked" or "retina email images".'
 ---
 
 # Images in HTML email

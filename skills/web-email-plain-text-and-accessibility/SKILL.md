@@ -1,6 +1,6 @@
 ---
 name: web-email-plain-text-and-accessibility
-description: Write the plain-text alternative for an HTML email and make the HTML accessible: multipart/alternative structure, readable text layout, lang and title, presentation tables, real headings and lists, data tables with header cells, link and alt text, contrast and font size. Use when a user asks for "plain text version", "accessible email", "screen reader email" or "email alt text".
+description: 'Write the plain-text alternative for an HTML email and make the HTML accessible: multipart/alternative structure, readable text layout, lang and title, presentation tables, real headings and lists, data tables with header cells, link and alt text, contrast and font size. Use when a user asks for "plain text version", "accessible email", "screen reader email" or "email alt text".'
 ---
 
 # Plain text and accessibility in email

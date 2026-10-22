@@ -1,6 +1,6 @@
 ---
 name: web-theme-editorial
-description: Drop a complete magazine look onto a site in Tailwind v4: Newsreader display serif with optical sizing, cream paper and oxblood accent in oklch, hairline rules, numbered sections, drop caps, a strict 65ch measure and no shadows. Use whenever a user says "make it look like a magazine", "editorial", "like a newspaper", "long-read", "journal", "publication feel" or "literary".
+description: 'Drop a complete magazine look onto a site in Tailwind v4: Newsreader display serif with optical sizing, cream paper and oxblood accent in oklch, hairline rules, numbered sections, drop caps, a strict 65ch measure and no shadows. Use whenever a user says "make it look like a magazine", "editorial", "like a newspaper", "long-read", "journal", "publication feel" or "literary".'
 ---
 
 # Editorial theme

@@ -1,6 +1,6 @@
 ---
 name: web-craft-color-with-restraint
-description: Build a restrained palette in Tailwind v4: oklch neutrals tinted toward one accent instead of gray, a single accent used only where the user acts, a second hue only for state, tinted surfaces instead of gray-50. Use whenever a user says "too much purple", "too many colours", "rainbow gradient", "looks AI generated", or wants colours that look premium or designed.
+description: 'Build a restrained palette in Tailwind v4: oklch neutrals tinted toward one accent instead of gray, a single accent used only where the user acts, a second hue only for state, tinted surfaces instead of gray-50. Use whenever a user says "too much purple", "too many colours", "rainbow gradient", "looks AI generated", or wants colours that look premium or designed.'
 ---
 
 # Colour with restraint

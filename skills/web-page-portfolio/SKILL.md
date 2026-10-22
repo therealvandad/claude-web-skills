@@ -1,6 +1,6 @@
 ---
 name: web-page-portfolio
-description: Build a portfolio site in Tailwind v4: a project index with a mixed-size work grid and an availability line, plus a case study page with a facts column, problem/process/outcome sections, full-bleed images and a next-project link. Use whenever a user asks for a portfolio, personal site, design or dev portfolio, case study page, "my work" page or project showcase.
+description: 'Build a portfolio site in Tailwind v4: a project index with a mixed-size work grid and an availability line, plus a case study page with a facts column, problem/process/outcome sections, full-bleed images and a next-project link. Use whenever a user asks for a portfolio, personal site, design or dev portfolio, case study page, "my work" page or project showcase.'
 ---
 
 # Portfolio and case study pages

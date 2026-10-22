@@ -1,6 +1,6 @@
 ---
 name: web-section-logo-cloud
-description: Build a customer logo strip: a row of grayscale SVG logos that wraps on phones, plus a marquee variant that pauses on hover and focus and stops under reduced motion, in Tailwind v4. Use whenever a user asks for a logo cloud, logo bar, "trusted by", "as seen in", press or partner logos, or "the company logos under the hero".
+description: 'Build a customer logo strip: a row of grayscale SVG logos that wraps on phones, plus a marquee variant that pauses on hover and focus and stops under reduced motion, in Tailwind v4. Use whenever a user asks for a logo cloud, logo bar, "trusted by", "as seen in", press or partner logos, or "the company logos under the hero".'
 ---
 
 # Logo cloud
