@@ -1,6 +1,6 @@
 ---
 name: web-content-markdown-pipeline
-description: Turn a folder of Markdown files with YAML-style front matter into HTML pages through one template, using a short Python 3.10 script with no required dependencies (optional `markdown` package), code-block classes for highlighting, lazy images and heading ids. Use when a user says "write pages in Markdown", "convert md to html", "front matter", "content folder", "docs from Markdown" or "no CMS".
+description: Turn a folder of Markdown files with front matter into HTML pages through one template, using a short Python 3.10 script with no required dependencies, code-block classes, lazy images and heading ids. Use when a user says "write pages in Markdown", "convert md to html", "front matter", "content folder" or "no CMS".
 ---
 
 # Markdown to HTML pipeline

@@ -14,4 +14,4 @@ and, where needed, a `scripts/` folder. Install by copying a folder into `~/.cla
 
 These follow the same writing conventions as the web-skills pack (`../web-skills/CONVENTIONS.md`):
 frontmatter with `name` and a pushy `description` under 60 words, then Pattern / Variations /
-Pitfalls / Related skills, 60 to 160 lines, minus the Tailwind-specific rules.
+Pitfalls / Related skills, 60 to 200 lines, minus the Tailwind-specific rules.

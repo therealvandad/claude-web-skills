@@ -1,6 +1,6 @@
 ---
 name: web-email-typography-and-buttons
-description: Style text and calls to action in HTML email: font stacks with a web font where supported, the Outlook Times New Roman fix, px line-heights, headings, link colours, and bulletproof buttons that stay fully clickable in classic Outlook. Use when a user asks for an "email button", "CTA in email", "font in my email", "links turn blue" or "button broken in Outlook".
+description: Style text and calls to action in HTML email: font stacks with a web font where supported, the Outlook Times New Roman fix, px line-heights, link colours, and bulletproof buttons clickable in classic Outlook. Use when a user asks for an "email button", "CTA in email", "font in my email", "links turn blue" or "button broken in Outlook".
 ---
 
 # Email typography and bulletproof buttons

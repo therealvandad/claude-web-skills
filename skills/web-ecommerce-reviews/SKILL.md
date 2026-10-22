@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-reviews
-description: Build product reviews for a static shop in Tailwind v4: a rating summary with per-star bars that filter the list, sort by newest, rating or photos, accessible star ratings, escaped review text, and a review form with a rating radio group and photo upload. Use whenever a user asks for "reviews", "ratings", "stars", "customer reviews", "write a review" or "rating breakdown".
+description: Build product reviews for a static shop in Tailwind v4: rating summary with per-star bars that filter the list, sorting, accessible stars, escaped review text and a review form with photo upload. Use whenever a user asks for "reviews", "ratings", "stars", "customer reviews", "write a review" or "rating breakdown".
 ---
 
 # Product reviews

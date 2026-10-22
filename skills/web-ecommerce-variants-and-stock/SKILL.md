@@ -1,6 +1,6 @@
 ---
 name: web-ecommerce-variants-and-stock
-description: Build size and colour pickers as native radio groups in Tailwind v4, resolve the chosen variant SKU, update price and stock text (in stock, only 3 left, sold out, back on a date), keep sold-out options selectable, and swap the button for a back-in-stock email form. Use whenever a user asks for "variants", "size picker", "colour swatches", "out of stock", "sold out" or "notify me".
+description: Build size and colour pickers as native radio groups in Tailwind v4: resolve the variant SKU, update price and stock text (in stock, only 3 left, sold out), and swap the button for a back-in-stock form. Use whenever a user asks for "variants", "size picker", "colour swatches", "out of stock", "sold out" or "notify me".
 ---
 
 # Variants and stock

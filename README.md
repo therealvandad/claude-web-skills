@@ -71,6 +71,16 @@ python install.py --uninstall
 The folder is also a valid Claude Code plugin (`.claude-plugin/plugin.json`), so it can be loaded
 with `claude --plugin-dir <this folder>` without copying anything.
 
+## Standalone skills
+
+The `claude-skills/` folder holds five skills that are not about web sites: `skill-brain` (graph of
+your installed skills), `session-timeline` (timeline of your Claude Code sessions), `windows-tray-app`,
+`arduino-serial` and `readme-and-release`. Install them with:
+
+```bash
+python claude-skills/install.py
+```
+
 ## Writing or changing skills
 
 `CONVENTIONS.md` is the style guide every skill follows. After editing, run:

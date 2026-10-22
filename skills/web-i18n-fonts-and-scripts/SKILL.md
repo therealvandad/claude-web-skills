@@ -1,6 +1,6 @@
 ---
 name: web-i18n-fonts-and-scripts
-description: Choose fonts, fallbacks, subsets and per-script line height and size for Arabic, Hebrew, CJK, Devanagari, Thai and Cyrillic, using :lang() rules and Tailwind v4 @theme tokens, so translated pages do not show tofu boxes or cramped lines. Use when a user says "Arabic font looks wrong", "Chinese characters", "font for Hindi", "tofu boxes", "font fallback for other languages" or "line height for Arabic".
+description: Choose fonts, fallbacks, subsets and per-script line height for Arabic, Hebrew, CJK, Devanagari, Thai and Cyrillic, using :lang() rules and Tailwind v4 @theme tokens. Use when a user says "Arabic font looks wrong", "Chinese characters", "font for Hindi", "tofu boxes", "font fallback for other languages" or "line height for Arabic".
 ---
 
 # Fonts and line metrics per writing system

@@ -1,15 +1,15 @@
 ---
 name: windows-tray-app
-description: Scaffold a small Windows utility that lives in the system tray: icon with right-click menu, settings window, JSON settings in %APPDATA%, one instance only, "start with Windows", and a single exe or installer. C# (.NET 8 WinForms) or Python (pystray). Use when a user says "tray icon", "notification area", "runs in the background", "minimize to tray", "autostart", or "small Windows utility".
+description: Scaffold a small Windows tray utility: icon with right-click menu, settings window, JSON settings in %APPDATA%, single instance, "start with Windows", one exe or installer, in C# (.NET 8 WinForms) or Python (pystray). Use when a user says "tray icon", "notification area", "runs in the background", "minimize to tray", or "autostart".
 ---
 
 # Windows tray app
 
 A tray app is a program with no main window: it shows an icon in the notification area (bottom right, next to the clock), does its job in the background and opens a small settings window on demand. Five things make it feel finished: one instance only (a named **mutex**, a system-wide lock, stops a second copy), settings that survive updates (`%APPDATA%\<App>\settings.json`, never next to the exe), autostart through the per-user **Run key** in the registry (no admin rights needed), a crisp icon that is removed on exit, and one file to hand out.
 
-## Pattern (C#, .NET 8 WinForms)
+## Pattern
 
-Layout: `FanTray/FanTray.csproj`, `Program.cs`, `TrayContext.cs`, `Settings.cs`, `SettingsForm.cs`, `app.ico` (multi-size 16/20/24/32/48 px; make one with any icon editor). Start with `dotnet new winforms -n FanTray`, delete `Form1*`, then:
+The C# version (.NET 8 WinForms). Layout: `FanTray/FanTray.csproj`, `Program.cs`, `TrayContext.cs`, `Settings.cs`, `SettingsForm.cs`, `app.ico` (multi-size 16/20/24/32/48 px; make one with any icon editor). Start with `dotnet new winforms -n FanTray`, delete `Form1*`, then:
 
 ```xml
 <Project Sdk="Microsoft.NET.Sdk">

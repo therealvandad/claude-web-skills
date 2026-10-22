@@ -155,10 +155,14 @@ def srcdoc_for(c: Component, head_html: str, html_tag: str, body_tag: str, base_
         head_html = re.sub(r"(<head\b[^>]*>)", lambda m: m.group(1) + f'<base href="{html_mod.escape(base_href)}">', head_html, count=1, flags=re.I)
     opens = "".join(s for _, s in c.wrappers)
     closes = "".join(f"</{t}>" for t, _ in reversed(c.wrappers))
-    sizer = ("<script>(function(){var send=function(){parent.postMessage({galleryToken:%r,"
-             "height:document.documentElement.scrollHeight},'*')};new ResizeObserver(send).observe(document.documentElement);"
+    # a full page's html/body are often h-full / min-h-screen: that would pin the iframe at its current height, so the
+    # card could never shrink to fit; links are inert so a click cannot navigate the preview away (the <base> would resolve them)
+    fix = "<style>html,body{height:auto!important;min-height:0!important}</style>"
+    sizer = ("<script>document.addEventListener('click',function(e){if(e.target.closest('a'))e.preventDefault()});"
+             "(function(){var send=function(){parent.postMessage({galleryToken:%r,"
+             "height:Math.ceil(document.documentElement.getBoundingClientRect().height)},'*')};new ResizeObserver(send).observe(document.documentElement);"
              "addEventListener('load',function(){send();setTimeout(send,600);setTimeout(send,2000)});})();</script>") % token
-    return f"<!doctype html>{html_tag}{head_html}{body_tag}{opens}{c.html}{closes}{sizer}</body></html>"
+    return f"<!doctype html>{html_tag}{head_html}{fix}{body_tag}{opens}{c.html}{closes}{sizer}</body></html>"
 
 
 CSS = """

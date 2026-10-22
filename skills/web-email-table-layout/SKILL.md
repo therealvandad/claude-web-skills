@@ -38,7 +38,7 @@ Email clients are not browsers. Gmail strips `<head>` styles in some apps, class
 <body class="body" style="margin:0; padding:0; background-color:#f4f1ec;">
   <!-- Preheader: the inbox preview line. Hidden once opened; the &zwnj;&nbsp; run stops the footer bleeding into the preview. -->
   <div style="display:none; font-size:1px; line-height:1px; max-height:0; max-width:0; opacity:0; overflow:hidden; mso-hide:all;" aria-hidden="true">
-    Royal Mail has it. Expected Thursday 24 October, before 1 pm.
+    Royal Mail has it. Expected Saturday 24 October, before 1 pm.
     &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
   </div>
 
@@ -58,7 +58,7 @@ Email clients are not browsers. Gmail strips `<head>` styles in some apps, class
           <tr>
             <td bgcolor="#ffffff" class="pad" style="padding:32px 24px; background-color:#ffffff; border-radius:8px; font-family:Helvetica, Arial, sans-serif; font-size:16px; line-height:24px; color:#1c1917;">
               <h1 style="margin:0 0 12px; font-size:24px; line-height:32px; font-weight:bold; color:#1c1917;">Your order is on its way</h1>
-              <p style="margin:0 0 16px;">Royal Mail picked up order 48213 this morning. Expected delivery is Thursday 24 October, before 1 pm.</p>
+              <p style="margin:0 0 16px;">Royal Mail picked up order 48213 this morning. Expected delivery is Saturday 24 October, before 1 pm.</p>
               <!-- Spacer row: the only vertical space Outlook honours exactly -->
               <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td height="8" style="height:8px; line-height:8px; font-size:0;">&nbsp;</td></tr></table>
               <!-- Two columns: inline-block divs wrap on their own where media queries are stripped; .col stacks them where they work; ghost table holds Outlook at two columns -->

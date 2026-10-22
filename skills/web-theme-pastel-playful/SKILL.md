@@ -1,6 +1,6 @@
 ---
 name: web-theme-pastel-playful
-description: Drop a soft, friendly look onto a site in Tailwind v4: Gabarito display and Figtree body, cream paper with a deep plum ink, four pastel surfaces (peach, mint, lilac, butter) that are backgrounds only, a raspberry accent, big radii, no shadows, illustration-friendly spacing. Use whenever a user says "cute", "playful", "friendly", "pastel", "soft colours", "for kids", "approachable", "bubbly" or "not so corporate".
+description: Apply a soft, friendly look in Tailwind v4: Gabarito and Figtree fonts, cream paper with plum ink, four pastel background surfaces, a raspberry accent, big radii and no shadows. Use whenever a user says "cute", "playful", "friendly", "pastel", "soft colours", "for kids", "approachable" or "not so corporate".
 ---
 
 # Pastel playful theme

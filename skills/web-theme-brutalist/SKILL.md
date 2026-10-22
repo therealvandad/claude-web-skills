@@ -1,6 +1,6 @@
 ---
 name: web-theme-brutalist
-description: Drop a deliberate brutalist look onto a site in Tailwind v4: heavy Archivo headings, IBM Plex Mono body, 3px ink borders, hard offset shadows with no blur, zero radius, a yellowed paper and one safety-orange surface, all on a real grid and passing contrast. Use whenever a user says "brutalist", "raw", "neo-brutalism", "anti-design", "ugly on purpose", "punk zine" or "like a 2000s personal site but intentional".
+description: Apply a deliberate brutalist look in Tailwind v4: heavy Archivo headings, IBM Plex Mono body, thick ink borders, hard offset shadows, zero radius, yellowed paper and one safety-orange surface, with passing contrast. Use whenever a user says "brutalist", "raw", "neo-brutalism", "anti-design", "ugly on purpose" or "punk zine".
 ---
 
 # Brutalist theme
