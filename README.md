@@ -68,3 +68,7 @@ python tools/validate.py
 ```
 
 It checks frontmatter, required sections, lengths, and that related-skill names exist.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
