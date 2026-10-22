@@ -1,6 +1,6 @@
 {
   "name": "web-skills",
-  "version": "1.1.0",
-  "description": "110 skills for building web sites with plain HTML, CSS, JavaScript and Tailwind CSS v4: layouts, CSS techniques, navigation, forms, UI components, design systems, motion, accessibility and SEO, performance and shipping, JavaScript code help, and craft skills so pages do not look generic or vibe-coded.",
+  "version": "1.2.0",
+  "description": "130 skills for building web sites with plain HTML, CSS, JavaScript and Tailwind CSS v4: layouts, whole-page and section layouts, CSS techniques, navigation, forms, UI components, design systems, motion, accessibility and SEO, performance and shipping, JavaScript code help, and craft skills so pages do not look generic or vibe-coded.",
   "author": { "name": "thevandadgamer23" }
 }

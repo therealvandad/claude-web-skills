@@ -1,4 +1,4 @@
-# The 110 skills (11 groups × 10)
+# The 130 skills (13 groups × 10)
 
 ## Group 1: Page layouts (`web-layout-*`)
 1. web-layout-page-shell — header / main / footer skeleton with sticky footer, max-width container, responsive padding
@@ -131,3 +131,27 @@
 108. web-craft-code-structure — the code tells of vibe coding (one 2,000-line file, repeated class strings, inline onclick, magic numbers, dead code, console.log) and how to restructure: partials, components, tokens, a utilities layer
 109. web-craft-consistency-audit — audit a page for drift: radius, spacing, button and icon variants, heading sizes; run `scripts/vibe_check.py` to count distinct values and flag generic tells
 110. web-craft-self-review — the pre-ship review ritual: squint test, read every sentence aloud, keyboard walk, phone pass, delete anything that does not earn its place, compare against one real site you admire
+
+## Group 12: Whole-page layouts (`web-page-*`)
+111. web-page-blog-post — article page: title block with meta, 65ch prose measure, sticky table of contents, figures with captions, author box, related posts
+112. web-page-blog-index — post listing: featured post, magazine grid, category filter, pagination, RSS link
+113. web-page-portfolio — project index grid plus a case-study page: problem, process, outcome, full-bleed images, next project link
+114. web-page-about-team — about page: origin story, values, team grid with roles, timeline, press and contact
+115. web-page-contact — contact page: form beside address, hours, map embed, alternative channels, success state
+116. web-page-product-detail — e-commerce product page: image gallery with thumbnails, sticky buy box, variants, specs table, reviews
+117. web-page-docs — documentation layout: left sidebar nav, content column, right "on this page", prev/next, code blocks, search box
+118. web-page-auth — login, signup and password-reset pages: centred card and split-with-image variants, error and success states
+119. web-page-help-center — help centre: search hero, category cards, article accordions, "still stuck" contact row
+120. web-page-404-and-legal — 404, maintenance, privacy and terms pages: useful 404, legal page with sticky TOC and "last updated"
+
+## Group 13: Section layouts (`web-section-*`)
+121. web-section-stats-band — numbers band: 3 to 4 big figures with labels, source line, optional count-up, dark and light variants
+122. web-section-logo-cloud — customer logo strip: grayscale row, wrap on mobile, marquee variant, "as seen in" variant
+123. web-section-cta-band — final call-to-action band: headline, one button, reassurance line; dark, brand and bordered variants
+124. web-section-steps-timeline — process steps: numbered horizontal steps, vertical timeline with dates, connecting lines in CSS
+125. web-section-comparison-table — feature comparison: sticky first column, check and dash cells, highlighted plan, mobile card fallback
+126. web-section-bento-grid — bento layout: mixed-size tiles with spans, one hero tile, dense packing, responsive collapse
+127. web-section-gallery-masonry — image gallery: CSS columns masonry, grid with spans, lightbox via dialog, lazy loading
+128. web-section-team-grid — people grid: photo, name, role, social links; compact list variant; hover and focus states
+129. web-section-newsletter-signup — newsletter section: inline form, privacy line, success state, honeypot, dark variant
+130. web-section-before-after-slider — before/after image comparison with a draggable range handle, keyboard support, labels
