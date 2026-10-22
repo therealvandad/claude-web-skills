@@ -1,6 +1,6 @@
 ---
 name: web-design-borders-radius-dividers
-description: Set a radius scale in Tailwind v4 `@theme`, nest rounded corners correctly (outer = inner + padding), choose between `border`, `ring` and `outline`, and build dividers with `divide-*`, `<hr>` and labelled separators. Use whenever a user asks about rounded corners, border radius, doubled borders, a divider or separator line, or nested cards whose corners clash.
+description: Set a radius scale in Tailwind v4 `@theme`, nest rounded corners correctly (outer = inner + padding), choose between `border`, `ring` and `outline`, and build dividers with `divide-*`, `hr` and labelled separators. Use whenever a user asks about rounded corners, border radius, doubled borders, a divider or separator line, or nested cards whose corners clash.
 ---
 
 # Borders, radius and dividers

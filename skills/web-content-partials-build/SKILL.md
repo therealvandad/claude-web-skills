@@ -1,6 +1,6 @@
 ---
 name: web-content-partials-build
-description: 'Assemble static pages from shared partials (header, footer) using <!-- include: header --> markers, with a short Python 3.10 build script, a --watch polling mode and automatic aria-current on the active link. Use when a user says "same header on every page", "include header and footer", "html includes", "partials without a framework" or "I copy the nav into every page".'
+description: 'Assemble static pages from shared partials (header, footer) using "include: header" comment markers, with a short Python 3.10 build script, a --watch polling mode and automatic aria-current on the active link. Use when a user says "same header on every page", "include header and footer", "html includes", "partials without a framework" or "I copy the nav into every page".'
 ---
 
 # Partials build

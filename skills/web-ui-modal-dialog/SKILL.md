@@ -1,6 +1,6 @@
 ---
 name: web-ui-modal-dialog
-description: 'Build an accessible modal with the native <dialog> element: open/close buttons, backdrop, Escape and click-outside close, focus restore, body scroll lock, Tailwind styling. Use whenever a user asks for a modal, popup, dialog, overlay, lightbox, confirm box, "are you sure" prompt, or a form that opens on top of the page.'
+description: 'Build an accessible modal with the native dialog element: open/close buttons, backdrop, Escape and click-outside close, focus restore, body scroll lock, Tailwind styling. Use whenever a user asks for a modal, popup, dialog, overlay, lightbox, confirm box, "are you sure" prompt, or a form that opens on top of the page.'
 ---
 
 # Modal dialog with `<dialog>`

@@ -1,6 +1,6 @@
 ---
 name: web-section-before-after-slider
-description: 'Build a before-and-after image comparison slider: two stacked images, a native <input type="range"> driving clip-path so it is draggable, keyboard-operable and screen-reader labelled with no library, in Tailwind v4. Use whenever a user asks for a "before and after slider", "image comparison", "reveal slider", "drag to compare", "renovation before/after", or "photo retouching comparison".'
+description: 'Build a before-and-after image comparison slider: two stacked images, a native range input driving clip-path so it is draggable, keyboard-operable and screen-reader labelled with no library, in Tailwind v4. Use whenever a user asks for a "before and after slider", "image comparison", "reveal slider", "drag to compare", "renovation before/after", or "photo retouching comparison".'
 ---
 
 # Before and after slider

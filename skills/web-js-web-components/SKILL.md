@@ -1,6 +1,6 @@
 ---
 name: web-js-web-components
-description: Build reusable widgets as custom elements (`<my-counter>`, `<copy-button>`, `<toggle-panel>`) with vanilla JavaScript, light DOM so Tailwind classes apply, attributes as the API, events out, and proper cleanup; with the shadow DOM variant when style isolation is wanted. Use whenever a user says "reusable component without React", "custom element", "web component", "same widget on many pages", or "encapsulate this behaviour".
+description: Build reusable widgets as custom elements (`my-counter`, `copy-button`, `toggle-panel`) with vanilla JavaScript, light DOM so Tailwind classes apply, attributes as the API, events out, and proper cleanup; with the shadow DOM variant when style isolation is wanted. Use whenever a user says "reusable component without React", "custom element", "web component", "same widget on many pages", or "encapsulate this behaviour".
 ---
 
 # Web components: reusable widgets the browser understands

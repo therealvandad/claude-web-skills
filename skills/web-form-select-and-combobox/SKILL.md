@@ -1,6 +1,6 @@
 ---
 name: web-form-select-and-combobox
-description: Style a native <select> with Tailwind (custom chevron, consistent height, dark mode) and build an accessible custom combobox with type-to-filter, arrow-key navigation, aria-activedescendant and a hidden input for the chosen value. Use whenever a user asks for a "dropdown", "select box", "searchable select", "autocomplete select", "country picker", or complains the default select looks wrong.
+description: Style a native select with Tailwind (custom chevron, consistent height, dark mode) and build an accessible custom combobox with type-to-filter, arrow-key navigation, aria-activedescendant and a hidden input for the chosen value. Use whenever a user asks for a "dropdown", "select box", "searchable select", "autocomplete select", "country picker", or complains the default select looks wrong.
 ---
 
 # Select and combobox

@@ -1,6 +1,6 @@
 ---
 name: web-section-gallery-masonry
-description: 'Build an image gallery section: CSS-columns masonry or a grid with spans, lazy-loaded figures with captions, and a native <dialog> lightbox with keyboard navigation and no library, in Tailwind v4. Use whenever a user asks for a "gallery", "masonry", "photo grid", "portfolio images", "lightbox", "click to enlarge", or "Pinterest-style layout".'
+description: 'Build an image gallery section: CSS-columns masonry or a grid with spans, lazy-loaded figures with captions, and a native dialog lightbox with keyboard navigation and no library, in Tailwind v4. Use whenever a user asks for a "gallery", "masonry", "photo grid", "portfolio images", "lightbox", "click to enlarge", or "Pinterest-style layout".'
 ---
 
 # Gallery with masonry and lightbox

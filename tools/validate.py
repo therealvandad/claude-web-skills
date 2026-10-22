@@ -54,6 +54,8 @@ def main() -> int:
         found[name] = d.name
         if name != d.name:
             errors.append(f"{d.name}: name field is '{name}'")
+        if "<" in desc or ">" in desc:
+            errors.append(f"{d.name}: description contains angle brackets (the Claude app rejects them)")
         if not desc:
             errors.append(f"{d.name}: empty description")
         elif len(desc.split()) > MAX_DESC_WORDS:

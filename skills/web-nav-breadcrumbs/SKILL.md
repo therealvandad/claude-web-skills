@@ -1,6 +1,6 @@
 ---
 name: web-nav-breadcrumbs
-description: Build an accessible breadcrumb trail (nav aria-label="Breadcrumb", ordered list, separators as decoration, current page marked, collapses to "…" on narrow screens) with Tailwind v4, plus the matching BreadcrumbList JSON-LD for search engines. Use when a user asks for breadcrumbs, "Home > Products > Item" links, a path indicator, or hierarchy navigation.
+description: Build an accessible breadcrumb trail (nav aria-label="Breadcrumb", ordered list, separators as decoration, current page marked, collapses to "…" on narrow screens) with Tailwind v4, plus the matching BreadcrumbList JSON-LD for search engines. Use when a user asks for breadcrumbs, "Home / Products / Item" links, a path indicator, or hierarchy navigation.
 ---
 
 # Breadcrumbs

@@ -1,6 +1,6 @@
 ---
 name: web-form-search-suggestions
-description: 'Build a site search box with live suggestions: a <form role="search"> that works without JS, a debounced fetch with AbortController, a suggestion listbox with arrow-key and Enter selection, aria-activedescendant, result-count announcements, and highlighted matches. Use whenever a user asks for "search with suggestions", "autocomplete search", "typeahead", "search as you type", "instant search", or "a search bar for the header".'
+description: 'Build a site search box with live suggestions: a form that works without JS, a debounced fetch with AbortController, a suggestion listbox with arrow-key and Enter selection, aria-activedescendant, result-count announcements, and highlighted matches. Use whenever a user asks for "search with suggestions", "autocomplete search", "typeahead", "search as you type", "instant search", or "a search bar for the header".'
 ---
 
 # Search with suggestions

@@ -1,6 +1,6 @@
 ---
 name: web-perf-css-and-js-loading
-description: Produce a `<head>` and script setup that never blocks rendering - one small Tailwind CSS file, critical CSS when it pays off, `type="module"` scripts, per-page entries, preconnect/preload hints, a size budget check. Use when a user says "render blocking", "eliminate render-blocking resources", "scripts slow my page", "where do I put the script tag", or "critical CSS".
+description: Produce a `head` and script setup that never blocks rendering - one small Tailwind CSS file, critical CSS when it pays off, `type="module"` scripts, per-page entries, preconnect/preload hints, a size budget check. Use when a user says "render blocking", "eliminate render-blocking resources", "scripts slow my page", "where do I put the script tag", or "critical CSS".
 ---
 
 # CSS and JS loading

@@ -1,6 +1,6 @@
 ---
 name: web-section-stats-band
-description: 'Build a stats band or numbers section: three or four large figures with labels, a source line, and an optional count-up that respects reduced motion, as a semantic <dl> in Tailwind v4. Use whenever a user asks for a "stats section", "numbers section", "key figures", "by the numbers", "our impact in numbers", or "big numbers under the hero".'
+description: 'Build a stats band or numbers section: three or four large figures with labels, a source line, and an optional count-up that respects reduced motion, as a semantic dl in Tailwind v4. Use whenever a user asks for a "stats section", "numbers section", "key figures", "by the numbers", "our impact in numbers", or "big numbers under the hero".'
 ---
 
 # Stats band

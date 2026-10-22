@@ -1,6 +1,6 @@
 ---
 name: web-i18n-rtl
-description: Make a Tailwind v4 page work right-to-left for Arabic, Hebrew, Persian or Urdu - `dir="rtl"` on `<html>`, logical utilities (ms-/me-/ps-/pe-/start-/end-/text-start) instead of left/right, `rtl:` variants, which icons to mirror, and `<bdi>`/`dir="auto"` for mixed-direction text, numbers and phone numbers. Use when a user says "Arabic", "Hebrew", "RTL", "right to left", "the layout is mirrored wrong" or "bidi text".
+description: Make a Tailwind v4 page work right-to-left for Arabic, Hebrew, Persian or Urdu - `dir="rtl"` on `html`, logical utilities (ms-/me-/ps-/pe-/start-/end-/text-start) instead of left/right, `rtl:` variants, which icons to mirror, and `bdi`/`dir="auto"` for mixed-direction text, numbers and phone numbers. Use when a user says "Arabic", "Hebrew", "RTL", "right to left", "the layout is mirrored wrong" or "bidi text".
 ---
 
 # Right-to-left support

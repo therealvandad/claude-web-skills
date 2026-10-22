@@ -1,6 +1,6 @@
 ---
 name: web-design-icons
-description: 'Use SVG icons correctly on a Tailwind site: inline SVG with `currentColor`, a sprite referenced with `<use>`, a size scale, icon-plus-text alignment, decorative vs meaningful icons and accessible icon-only buttons. Use whenever a user asks to add icons, "use Heroicons/Lucide", an icon button, a sprite, or whether to use Font Awesome or an icon font (no).'
+description: 'Use SVG icons correctly on a Tailwind site: inline SVG with `currentColor`, a sprite referenced with `use`, a size scale, icon-plus-text alignment, decorative vs meaningful icons and accessible icon-only buttons. Use whenever a user asks to add icons, "use Heroicons/Lucide", an icon button, a sprite, or whether to use Font Awesome or an icon font (no).'
 ---
 
 # Icons

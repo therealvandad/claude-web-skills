@@ -1,6 +1,6 @@
 ---
 name: web-content-images-pipeline
-description: Resize original photos to 480, 960 and 1600 px, save WebP (and AVIF when Pillow supports it) and print a ready <picture> snippet with srcset, sizes, width and height, using a Python 3.10 script with Pillow. Use when a user says "optimize my images", "convert to webp", "avif", "responsive images", "srcset", "resize photos" or "images are too heavy".
+description: Resize original photos to 480, 960 and 1600 px, save WebP (and AVIF when Pillow supports it) and print a ready picture snippet with srcset, sizes, width and height, using a Python 3.10 script with Pillow. Use when a user says "optimize my images", "convert to webp", "avif", "responsive images", "srcset", "resize photos" or "images are too heavy".
 ---
 
 # Images pipeline
