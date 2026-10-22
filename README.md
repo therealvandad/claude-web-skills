@@ -24,6 +24,13 @@ The full list with one-line summaries is in [SKILL-LIST.md](SKILL-LIST.md).
 
 ## Install
 
+Get the pack:
+
+```bash
+git clone https://github.com/therealvandad/claude-web-skills.git
+cd claude-web-skills
+```
+
 Everything, for every project on this machine:
 
 ```bash
