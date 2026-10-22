@@ -73,7 +73,7 @@ with `claude --plugin-dir <this folder>` without copying anything.
 
 ## Standalone skills
 
-The `claude-skills/` folder holds five skills that are not about web sites: `skill-brain` (graph of
+The `claude-skills/` folder holds six skills that are not about web sites: `memory-brain` (graph of your Claude memories), `skill-brain` (graph of
 your installed skills), `session-timeline` (timeline of your Claude Code sessions), `windows-tray-app`,
 `arduino-serial` and `readme-and-release`. Install them with:
 

@@ -6,6 +6,7 @@ and, where needed, a `scripts/` folder. Install by copying a folder into `~/.cla
 
 | Skill | What |
 |---|---|
+| `memory-brain` | draws every Claude Code memory as a node in an interactive brain graph; with `--serve` you can draw new links that are written back into the memory files |
 | `skill-brain` | draws every installed skill as a node in an interactive graph, with "related skills" links as wires |
 | `session-timeline` | reads Claude Code session logs and renders a timeline page of what was built when, across projects |
 | `windows-tray-app` | scaffold for small Windows utilities with a tray icon, settings file, autostart and installer, in C# or Python |
