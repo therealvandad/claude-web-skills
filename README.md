@@ -1,9 +1,62 @@
 # web-skills
 
-207 Claude Code skills for building web sites with **plain HTML, CSS, JavaScript and Tailwind CSS v4**.
+207 Claude skills for building web sites with **plain HTML, CSS, JavaScript and Tailwind CSS v4**, plus 6 standalone skills.
 No frameworks. Each skill is one folder with a `SKILL.md`: a short, copy-pasteable pattern, the
 reasoning behind it, variations and pitfalls. Claude picks a skill automatically when a request
 matches its description ("make me a pricing table", "the navbar breaks on mobile", "add dark mode").
+
+## How to install
+
+> [!IMPORTANT]
+> **There are two different places to add skills, and they take different files.**
+> **On claude.ai or the Claude desktop app, upload the PLUGIN zips on the Plugins page, not the Skills page.**
+> **The Skills page accepts only one skill per zip and will reject these.**
+
+### Option 1: claude.ai or the Claude desktop app (no coding)
+
+1. **Download the three plugin zips** from the [latest release](https://github.com/therealvandad/claude-web-skills/releases/latest):
+   - **`web-skills-design-plugin.zip`**: 100 skills for layouts, pages, sections, CSS, navigation, forms, UI, design, motion and craft
+   - **`web-skills-build-plugin.zip`**: 107 skills for features, e-commerce, charts, themes, languages, PWA, email, tools and workflows
+   - **`creator-tools-plugin.zip`**: 6 standalone skills (memory-brain, skill-brain, session-timeline, windows-tray-app, arduino-serial, readme-and-release)
+2. **Go to [claude.ai/customize/plugins](https://claude.ai/customize/plugins)** (Customize, then **Plugins**).
+3. **Click Add, then Upload plugin, and choose one zip.** Repeat for the other two.
+4. **Turn on code execution** in your settings if it is off; skills need it.
+5. **Do not unzip the files**, and **do not upload them on the Skills page**.
+
+Only want some of them? Upload just the plugin you need. Every installed skill's description is read in each chat, so fewer skills keeps Claude quick.
+
+### Option 2: Claude Code (terminal or the Code tab)
+
+```bash
+git clone https://github.com/therealvandad/claude-web-skills.git
+cd claude-web-skills
+python install.py
+python claude-skills/install.py
+```
+
+**That copies every skill into `~/.claude/skills/`, so they work in every project. Start a new session to pick them up.**
+
+Install only some groups, into one project, or remove them again:
+
+```bash
+python install.py --only layout page section nav form ui craft
+python install.py --project C:\path	o\my-site
+python install.py --uninstall
+```
+
+The folder is also a Claude Code plugin, so `claude --plugin-dir <this folder>` loads it without copying.
+
+### Option 3: one single skill on the Skills page
+
+The Skills page wants **one skill per zip, with the skill folder at the top**. Zip a single folder from `skills/` (for example `skills/web-layout-hero/`) **from its parent folder**, then upload it under **Customize, then Skills, then Upload a skill**.
+
+### Rebuild the plugin zips yourself
+
+```bash
+python tools/build_plugins.py
+```
+
+This writes the three zips to `dist/`, each under the 200-file upload limit.
 
 ## Groups
 
@@ -33,43 +86,6 @@ matches its description ("make me a pricing table", "the navbar breaks on mobile
 | `web-craft-*` | not looking vibe-coded: anti-generic design, typography with character, human copy, intentional layout, colour restraint, finishing details, real content, code structure, a consistency audit with `vibe_check.py`, a self-review ritual | 10 |
 
 The full list with one-line summaries is in [SKILL-LIST.md](SKILL-LIST.md).
-
-## Install
-
-Get the pack:
-
-```bash
-git clone https://github.com/therealvandad/claude-web-skills.git
-cd claude-web-skills
-```
-
-Everything, for every project on this machine:
-
-```bash
-python install.py
-```
-
-Only some groups (the skill list is loaded into every Claude session, so fewer skills means less
-context used):
-
-```bash
-python install.py --only layout page section nav form ui craft tool
-```
-
-Into one project only:
-
-```bash
-python install.py --project C:\path\to\my-site
-```
-
-Remove:
-
-```bash
-python install.py --uninstall
-```
-
-The folder is also a valid Claude Code plugin (`.claude-plugin/plugin.json`), so it can be loaded
-with `claude --plugin-dir <this folder>` without copying anything.
 
 ## Standalone skills
 
